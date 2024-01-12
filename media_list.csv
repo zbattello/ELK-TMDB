@@ -15244,3 +15244,1343 @@ ID,Title,Vote Average,Date,Original Language,Genre IDs,IsMovie
 2184,Maude,6.5,1972-09-12,en,"[35, 18]",False
 14955,POV,6.8,1988-07-05,en,[99],False
 117303,Lessons in Chemistry,8.4,2023-10-12,en,[18],False
+315946,Passage of Venus,6.2,1874-12-09,fr,[99],True
+766094,The Magic Rosette,5.8,1878-05-07,xx,[16],True
+922184,Les Chiens Savants,4.3,1878-05-07,xx,[16],True
+922511,Le Jongleur,4.3,1878-05-07,xx,[16],True
+1144947,Les Clowns,3.3,1878-05-07,en,[16],True
+751212,The Musician Monkey,6,1878-05-07,xx,[16],True
+922081,Le Steeple-chase,4.3,1878-05-07,xx,[16],True
+1144949,Les Petits Valseurs,3.3,1878-05-07,en,[16],True
+922010,Les Papillons,4,1878-05-07,xx,[16],True
+921930,Dancing on the Rope,4.2,1878-05-07,en,[16],True
+921941,Le Jeu du Volant,4.5,1878-05-07,xx,[16],True
+922529,Le Rotisseur,4.8,1878-05-07,fr,[16],True
+922079,La Nageuse,3.8,1878-05-07,xx,[16],True
+921939,Le Jeu de Corde,4.8,1878-05-07,xx,[16],True
+1146511,Les Scieurs de Long,2.3,1878-05-07,en,[16],True
+1146099,Le Moulin à Eau,3.5,1878-05-07,en,[16],True
+1144945,L'Hercule,3,1878-05-07,en,[16],True
+922515,Les Bulles de Savon,4.8,1878-05-07,xx,[16],True
+922513,L'Équilibriste,4.2,1878-05-07,xx,[16],True
+922073,Le Repas des Poulets,4,1878-05-07,xx,[16],True
+922018,Le Fumeur,4.3,1878-05-07,en,[16],True
+922015,La Balançoire,4.5,1878-05-07,xx,[16],True
+922013,La Charmeuse,5,1878-05-07,xx,[16],True
+922011,Le Trapèze,5,1878-05-07,xx,[16],True
+921940,"Zim, Boum, Boum",4.2,1878-05-07,xx,[16],True
+921938,The Aquarium,3.3,1878-05-07,xx,[16],True
+1213832,Athlete Swinging a Pick,4.7,1881-01-01,fr,[],True
+862594,The 1882 Transit of Venus,6.3,1882-12-06,en,[99],True
+1227240,Buffalo Running,0,1883-11-19,en,[99],True
+585297,L'Homme Machine,4.7,1885-01-01,xx,[16],True
+1191578,Gnu Bucking and Galloping,2.5,1887-01-01,en,[],True
+159897,Man Walking Around a Corner,4.9,1887-08-18,xx,[99],True
+96882,Accordion Player,4.7,1888-01-01,xx,[99],True
+355995,Brighton Street Scene,3.6,1888-01-01,en,[99],True
+335765,Horse and Rider Jumping Over an Obstacle,5,1888-05-31,xx,[99],True
+16463,Roundhay Garden Scene,6.3,1888-10-14,en,[99],True
+16464,Traffic Crossing Leeds Bridge,5.9,1888-10-15,xx,[99],True
+32406,"Leisurely Pedestrians, Open Topped Buses and Hansom Cabs with Trotting Horses",3.9,1889-01-14,xx,[99],True
+355764,Hyde Park Corner,4.3,1889-11-23,xx,[99],True
+33316,London's Trafalgar Square,4.4,1890-01-01,xx,[99],True
+1109230,Cheval (Bixio). Pas monté,2,1890-01-01,en,[99],True
+1204544,Weight lifter,2,1890-01-01,xx,[],True
+1204541,Somersault,1,1890-01-01,xx,[],True
+620267,Escrime,3.4,1890-01-01,xx,[99],True
+355846,"Traffic in King's Road, Chelsea",3.6,1890-01-01,xx,[99],True
+386743,Mosquinha,5.7,1890-03-09,xx,[99],True
+32571,"Monkeyshines, No. 1",4.9,1890-11-21,xx,[99],True
+33315,"Monkeyshines, No. 2",4.4,1890-11-21,xx,[99],True
+33317,"Monkeyshines, No. 3",3.2,1890-11-21,xx,[],True
+336380,Je Vous Aime,4.7,1891-01-01,fr,[99],True
+416258,Two Fencers,4.5,1891-01-02,xx,[99],True
+1147325,Barques sur la mer,2,1891-01-01,en,[99],True
+33318,Men Boxing,4,1891-04-30,xx,[99],True
+104852,Newark Athlete,4.4,1891-05-01,xx,[99],True
+33229,Dickson Greeting,4.8,1891-05-20,xx,[99],True
+312452,The Wave,4.8,1891-11-15,xx,[99],True
+105157,A Hand Shake,3.5,1892-01-01,xx,[99],True
+105153,Fencing,3.3,1892-01-01,xx,[99],True
+355757,Wrestling,2.9,1892-01-01,en,[],True
+355532,Man on Parallel Bars,2.6,1892-01-01,en,[],True
+1227253,Déplacement des globules de sang dans un vaisseau capillaire,0,1892-01-01,en,[99],True
+1204509,Bonjour Madame,1,1892-01-01,fr,[],True
+88013,Poor Pierrot,6,1892-10-28,fr,"[35, 16]",True
+16613,Clown and His Dogs,4.7,1892-10-28,fr,[16],True
+16622,A Good Beer,4,1892-10-28,fr,[16],True
+152218,The Barbershop,4.9,1893-01-01,xx,[18],True
+1204517,Demenÿ writing his name,1,1893-01-01,xx,[],True
+1204514,A hand opening and closing,1,1893-01-01,xx,[],True
+1101673,Cracovienne,1,1893-01-01,xx,[99],True
+355533,Horse Shoeing,2.6,1893-01-01,xx,"[99, 18]",True
+796506,Rabbits,3.8,1893-02-01,xx,[99],True
+16624,Blacksmith Scene,5.5,1893-05-08,xx,"[18, 99]",True
+105158,Edison Kinetoscopic Record of a Sneeze,4.8,1894-01-09,xx,[99],True
+154339,Falling Cat,5.2,1894-01-01,xx,[99],True
+105160,Annabelle Butterfly Dance,5.4,1894-01-01,xx,[99],True
+332353,Annabelle Sun Dance,4.2,1894-01-01,en,[99],True
+189054,"Luis Martinetti, Contortionist",5.1,1894-01-01,xx,[99],True
+356155,"Glenroy Bros., No. 2",4.8,1894-01-01,en,[35],True
+319603,"Cock Fight, No. 2",3.5,1894-01-15,xx,[99],True
+152216,The Cock Fight,3.6,1894-01-01,xx,[99],True
+722396,Skating-rink in the Royal Baths,6.3,1894-01-01,xx,[99],True
+1204533,On a bicycle,1,1894-01-01,xx,[],True
+1204529,A stroke of a brush,1,1894-01-01,xx,[],True
+1204526,Laughter,1,1894-01-01,xx,[],True
+1204520,Laugh!,1,1894-01-01,xx,[],True
+1122120,Ruth Dennis,2,1894-01-01,en,[],True
+1102810,Disques,1,1894-01-01,fr,[],True
+1087153,Cancan,1,1894-01-01,fr,[],True
+1087152,Clin d'éventail,2,1894-01-01,fr,[],True
+1087151,Baisers envolés,2,1894-01-01,fr,[],True
+914998,Children Playing in the Garden,1,1894-01-01,xx,[99],True
+188368,Athlete with Wand,3.7,1894-02-01,xx,[99],True
+16612,Carmencita,5.2,1894-03-14,xx,[99],True
+566173,Unsuccessful Somersault,2.3,1894-03-01,en,[],True
+159903,Chinese Laundry Scene,4.9,1894-04-30,xx,"[80, 35]",True
+566174,Highland Dance,1.2,1894-04-01,en,[],True
+566172,Wrestling Match,2,1894-04-01,en,[],True
+186019,Souvenir Strip of the Edison Kinetoscope,4.8,1894-05-18,xx,[99],True
+194089,The Pickaninny Dance from the “Passing Show”,4,1894-05-16,en,[99],True
+917062,Trained Bears,1.5,1894-05-01,en,[99],True
+1122124,A Bar Room Scene,1,1894-05-01,en,[],True
+566176,Rat Killing,1.3,1894-05-01,en,[],True
+159905,Leonard-Cushing Fight,5.2,1894-06-14,en,[99],True
+289298,Buffalo Bill,1.7,1894-06-17,en,"[37, 99]",True
+159898,The Boxing Cats,5.9,1894-07-16,xx,"[99, 35, 28]",True
+186021,Caicedo (with Pole),5.7,1894-07-25,en,[99],True
+104396,Dickson Experimental Sound Film,6.2,1894-08-31,en,[10402],True
+155107,Buffalo Dance,4.5,1894-09-23,xx,[99],True
+127224,Sioux Ghost Dance,4.4,1894-09-23,xx,[99],True
+1122128,Boxing Match,2,1894-09-01,en,[],True
+982692,Rats and Weasel,1,1894-09-01,en,[],True
+982691,Rats and Terrier No. 3,1,1894-09-01,en,[],True
+982690,Rats and Terrier No. 2,1,1894-09-01,en,[],True
+159904,Bucking Broncho,4.3,1894-10-16,xx,[99],True
+152215,Glenroy Brothers (Comic Boxing),4.7,1894-10-05,xx,"[99, 35]",True
+194091,The Hornbacker-Murphy Fight,4.5,1894-10-02,en,[],True
+356154,Chinese Opium Den,2.8,1894-10-16,en,[],True
+566180,Lasso Thrower,1.3,1894-10-06,en,[],True
+159910,Hadj Cheriff,4.4,1894-10-05,xx,[],True
+566179,Mexican Knife Duel,1.3,1894-10-06,en,[],True
+159895,Corbett and Courtney Before the Kinetograph,5,1894-11-17,xx,[99],True
+144393,Annie Oakley,5.8,1894-11-01,xx,[99],True
+159899,Imperial Japanese Dance,4.3,1894-11-05,xx,[],True
+159908,Band Drill,3.4,1894-11-28,xx,[99],True
+159896,Autour d’une cabine,5.8,1894-12-15,dz,[16],True
+189055,Fire Rescue Scene,5,1894-12-01,xx,[18],True
+751244,Un rêve au coin du feu,3.3,1894-12-15,fr,[16],True
+566177,Indian War Council,1.5,1894-12-01,en,[],True
+129436,Boat Leaving the Port,5.5,1895-01-01,fr,"[18, 99]",True
+144396,Transformation by Hats,5.8,1895-01-01,fr,[35],True
+231113,"Lyon, place Bellecour",5.2,1895-01-01,fr,[99],True
+193805,Déjeuner du Chat,5.5,1895-01-01,fr,[99],True
+194236,Partie de tric-trac,4.8,1895-01-01,fr,[99],True
+189578,Le maréchal-ferrant,4.8,1895-01-01,fr,[99],True
+178680,Photograph,5.5,1895-01-01,fr,[35],True
+189056,Billy Edwards and the Unknown,3.6,1895-01-30,xx,[99],True
+1015059,Short Stick Dance,1,1895-01-01,en,[],True
+1015058,Silver Dance,1,1895-01-01,en,[],True
+1015055,Dance of Rejoicing,1,1895-01-01,en,[],True
+1015054,Paddle Dance,1,1895-01-01,en,[],True
+877580,Annabelle Butterfly Dance No. 3,2,1895-01-01,en,[],True
+696639,"James Grundy, Buck and Wing",1.5,1895-01-24,en,[99],True
+290816,A West Indian Woman Bathing a Baby,2.5,1895-01-02,en,[],True
+283969,The German Emperor Reviewing His Troops,2.6,1895-01-02,en,[],True
+774,Workers Leaving the Lumière Factory,6.7,1895-03-22,fr,[99],True
+782669,Incident at Clovelly Cottage,2.7,1895-03-01,en,[10751],True
+272979,Untitled Kinetoscope Comedy,3.2,1895-03-04,en,[35],True
+270714,"Performing Animals; or, Skipping Dogs",4.3,1895-03-05,en,[99],True
+144410,Annabelle Serpentine Dance,5.9,1895-04-01,xx,[99],True
+208463,The Arrest of a Pickpocket,3.8,1895-05-18,en,[],True
+180702,The Arrest of a Bookmaker,3.9,1895-05-01,en,[80],True
+162869,Princess Ali,3.6,1895-05-09,xx,[],True
+415433,Young Griffo v. Battling Charles Barnett,3.3,1895-05-20,en,[],True
+194080,"Robetta and Doretto, No. 1",1.6,1895-05-16,en,[],True
+82120,The Sprinkler Sprinkled,6.9,1895-06-10,fr,[35],True
+208234,The Photographical Congress Arrives in Lyon,5.3,1895-06-12,fr,[99],True
+407224,Opening of the Kiel Canal,3.1,1895-06-19,en,[99],True
+34372,"The Execution of Mary, Queen of Scots",6.2,1895-08-28,xx,[36],True
+1081622,Nicholas Sisters Split Dance,1,1895-08-01,en,[],True
+194086,Kamarinskaja,4.2,1895-11-01,de,[99],True
+189570,The Boxing Kangaroo,4.7,1895-11-01,de,"[99, 28]",True
+194082,Komisches Reck,4.6,1895-11-01,de,"[35, 99]",True
+189572,Die Serpentintänzerin,4.3,1895-11-01,de,[99],True
+189575,Ringkämpfer,4.7,1895-11-05,de,[99],True
+144421,Wintergartenprogramm,4.9,1895-11-01,de,[],True
+194081,Italienischer Bauerntanz,4.1,1895-11-01,de,[99],True
+426904,The Derby 1895,4.8,1895-11-20,en,[],True
+194087,Apotheose,3.9,1895-11-01,de,[99],True
+194085,Akrobatisches Potpourri,4.5,1895-11-01,de,[99],True
+194084,Der Jongleur,4.7,1895-11-01,de,[99],True
+426905,New Blacksmith Shop,3.7,1895-11-20,xx,[99],True
+127157,Horse Trick Riders,5.3,1895-12-28,en,[],True
+122134,Baby's Meal,5.6,1895-12-28,fr,"[99, 10751]",True
+127762,The Sea,5.5,1895-12-28,fr,[99],True
+127777,The Blacksmiths,5.1,1895-12-28,fr,[99],True
+127792,Cordeliers' Square in Lyon,5.4,1895-12-28,fr,[99],True
+127764,Fishing for Goldfish,4.9,1895-12-28,fr,[99],True
+127773,Jumping the Blanket,5.7,1895-12-28,fr,"[99, 35]",True
+722407,Franciscan Street,1,1895-12-31,xx,[99],True
+323054,Discussion,3.8,1895-12-28,xx,[],True
+114117,Post No Bills,5.3,1896-01-01,fr,"[99, 35]",True
+104466,The Vanishing Lady,6.2,1896-01-01,fr,[9648],True
+104462,A Terrible Night,5.1,1896-01-01,fr,"[35, 27]",True
+104460,Playing Cards,4.8,1896-01-01,fr,"[99, 35]",True
+510647,Mit Ablösung der Wache,1,1896-01-01,en,[],True
+510644,Leben und Treiben am Alexanderplatz,2,1896-01-01,en,[],True
+510650,Ausfahrt nach dem Alarm,1.5,1896-01-01,en,[],True
+510645,Ankunft eines Eisenbahnzuges,2,1896-01-01,en,[99],True
+510651,Die Wachtparade,2,1896-01-01,en,[],True
+510643,Unter den Linden,1.5,1896-01-01,en,[],True
+178995,Rough Sea at Dover,5,1896-01-14,en,[99],True
+195082,Retour d’une promenade en mer,5.4,1896-01-16,fr,[99],True
+791517,Miss de Vère - English Jig,5.1,1896-01-01,xx,[99],True
+189581,Ateliers de La Ciotat,5.2,1896-01-16,fr,[99],True
+510648,Alarm der Feuerwehr,1.5,1896-01-01,en,[99],True
+397335,Les tribulations d'un concierge,3,1896-01-01,en,[],True
+189268,Lone Fisherman,4,1896-01-01,en,[35],True
+996346,Train Pulling into a Station,6.9,1896-01-25,fr,[99],True
+668546,Embarquement des filets de pêche,1,1896-01-16,fr,[99],True
+834233,Marché,1,1896-01-16,fr,[99],True
+157328,Carmaux: Drawing Out the Coke,5,1896-01-25,fr,[99],True
+127221,Blackfriars Bridge,5.1,1896-01-01,en,[99],True
+321693,Sardine fishing,5.3,1896-01-25,fr,[99],True
+449097,A Victorian Lady in Her Boudoir,4.1,1896-01-01,en,[18],True
+181376,Hyde Park Bicycling Scene,4.3,1896-01-01,en,[99],True
+183274,Andalusian Dance,4.3,1896-01-01,en,[],True
+178752,Poultry-Yard,4.2,1896-01-01,fr,[99],True
+599660,Arrival of a Train (Joinville Station),5.5,1896-01-01,en,[99],True
+273273,Dancing Darkies,5.5,1896-01-02,en,[],True
+374790,Arrival of a Train at Vincennes Station,4.2,1896-01-01,fr,[],True
+194266,"Carmaux, chargement du coke",4.9,1896-01-25,fr,[99],True
+189270,Interrupted Lovers,3.8,1896-01-01,en,"[10749, 35]",True
+1038027,"McKinley and Hobart Parade at Canton, O.",1,1896-01-01,en,[99],True
+668449,Watering the Flowers,5,1896-01-01,fr,[],True
+550862,Review of U.S. Military,1,1896-01-01,en,[99],True
+354010,A Heavy Sea,2,1896-01-16,fr,[99],True
+1165241,Annabelle in Flag Dance,1,1896-01-01,en,[],True
+1155023,Breakers,1,1896-01-01,en,[],True
+1155018,Rocky Shore,1,1896-01-01,en,[],True
+1153388,Danses Russes,2,1896-01-01,xx,[],True
+1153384,Place de la Concorde,2,1896-01-01,xx,[99],True
+1149788,Serpentine Dance,1,1896-01-01,en,[],True
+1067334,"Pont du Mont-Blanc, Genève",1,1896-01-01,fr,[99],True
+1029770,The Card Game,1,1896-01-01,en,[],True
+998090,Sunderland,1,1896-01-01,en,[99],True
+920680,La Zambelli,1,1896-01-01,fr,[],True
+819805,The Tramp and the Dog,6.3,1896-01-01,en,[35],True
+814843,Bradford Town Hall Square,1,1896-01-01,en,[],True
+791889,A Soldier's Unlucky Salutation,6.9,1896-01-01,xx,[],True
+791522,Conjurer Making Ten Hats in Sixty Seconds,5.7,1896-01-01,fr,[],True
+775149,Rochers de la vierge (Biarritz),1,1896-01-25,fr,[99],True
+764573,Snowball Fight,7,1896-01-01,it,[99],True
+713304,Rue Royale,4,1896-01-01,xx,[],True
+713302,Scène de rêve,5,1896-01-01,xx,[],True
+713300,Danse du papillon,2,1896-01-01,xx,[],True
+713298,Mademoiselle Zambelli de l'Opéra,1,1896-01-01,xx,[],True
+713297,Paul Nadar lisant l'Écho de Paris à la terrasse d'un café,10,1896-01-01,xx,[],True
+713296,Paul Nadar pratiquant l'escrime,1,1896-01-01,xx,[],True
+713295,Les deux gosses,5,1896-01-01,xx,[],True
+713291,Danses slaves,3,1896-01-01,xx,[],True
+692898,Umberto and Margherita of Savoy Strolling Through the Park,1,1896-01-01,en,[99],True
+665538,Devil's Dyke Fun Fair,2,1896-01-02,en,[99],True
+607055,Irish Way of Discussing Politics,3,1896-01-01,en,[],True
+602016,Vienna Street Scenes,1,1896-01-01,en,[99],True
+602014,Waves Breaking,1,1896-01-01,en,[99],True
+599683,A Serpentine Dance,5.3,1896-01-01,en,[],True
+550861,Boats in the New York Harbor,1,1896-01-01,en,[99],True
+501925,O Vira,1,1896-01-03,xx,[],True
+481560,Portuguese Railway Train,1,1896-01-01,en,[],True
+415822,Persimmons Winning the Derby,2,1896-01-01,en,[99],True
+415651,Bullfight,1,1896-01-01,en,[],True
+415434,The Hind in the Wood,1,1896-01-01,en,[14],True
+357031,Our New General Servant,1,1896-01-02,en,[],True
+357029,Gardener Watering Plants,1,1896-01-02,en,[],True
+357025,Trilby Burlesque,1,1896-01-02,en,[],True
+357023,Contortionist,1,1896-01-02,en,[],True
+325498,Leone XIII,5,1896-01-01,it,[99],True
+321692,Pêcheurs raccommodant les filets,1,1896-01-16,fr,[99],True
+321688,A Barc at the Sea,3.8,1896-01-16,fr,[99],True
+318793,Embarquement pour la promenade,4.7,1896-01-16,xx,[],True
+318790,Panorama pris depuis une plate-forme mobile,4.7,1896-01-16,fr,[],True
+212329,The Boxing Kangaroo,4.9,1896-01-06,en,[99],True
+194255,Concert,4.6,1896-01-16,fr,[],True
+191596,Jeux d'enfants dans une rue,5.4,1896-01-01,en,[],True
+191589,"Courses d'ânes: II, la course",4.6,1896-01-01,en,[],True
+189061,Watermelon Contest,3,1896-01-01,en,"[35, 99]",True
+189060,Edison Drawn by 'World' Artist,4.1,1896-01-01,en,[99],True
+189059,Mess Call,4.9,1896-01-01,en,[99],True
+183275,On Westminster Bridge,4,1896-01-01,en,[99],True
+183263,Comic Costume Race,4.4,1896-01-01,en,"[35, 99]",True
+183260,Royal Train,4,1896-01-01,en,[],True
+163064,Partie d'écarté,5.7,1896-02-20,fr,[99],True
+191594,Assiettes tournantes,6,1896-02-20,xx,[],True
+190580,Voltige,5.6,1896-02-01,fr,[99],True
+194243,Pont de Westminster,5.5,1896-02-20,fr,[99],True
+318789,Panorama de l’arrivée à Aix-les-Bains pris du train (temps de neige),5.7,1896-02-07,fr,[99],True
+864931,Garde montante au palais de Buckingham,1,1896-02-20,fr,[99],True
+864927,Hyde Park,1,1896-02-20,fr,[99],True
+940742,Sortie de fabrique,1,1896-02-19,en,[99],True
+864932,Gardes à cheval,1,1896-02-20,fr,[99],True
+864929,Regent Street,1,1896-02-20,fr,[99],True
+864924,Londres : alerte de pompiers,1,1896-02-20,fr,[99],True
+525189,Londres : entrée de Hyde Park,2.5,1896-02-20,fr,[99],True
+372268,Saut à la couverte,4.8,1896-02-01,en,[99],True
+323083,Jongleur au ballon,5,1896-02-09,xx,[],True
+323071,Un prêté pour un rendu,1,1896-02-09,xx,[],True
+322611,Serpent,1,1896-02-20,xx,[],True
+147554,The Cabbage-Patch Fairy,5.2,1896-03-31,fr,"[14, 10751]",True
+129865,Demolition of a Wall,6.4,1896-03-06,fr,[99],True
+152457,Childish Quarrel,6,1896-03-07,fr,[99],True
+190573,Arrivée d'un train à Perrache,6.1,1896-03-23,fr,[99],True
+190566,"London, Cinematography Entry",5.5,1896-03-09,fr,[99],True
+190555,Panorama de l'arrivée en gare de Perrache pris du train,5.8,1896-03-23,fr,[99],True
+786533,Piazza Termini,1,1896-03-12,fr,[99],True
+668548,Via Carlo Alberto,1,1896-03-12,fr,[99],True
+190564,Negro Street Dancers,4.3,1896-03-10,xx,"[35, 99]",True
+190565,Women Fighting,4.6,1896-03-21,fr,"[35, 28]",True
+191591,Port et Vésuve,4.7,1896-03-12,fr,[99],True
+189057,Amy Muller,4.4,1896-03-23,xx,[99],True
+231029,Steamship Arrival,5.1,1896-03-08,fr,[99],True
+195098,Carpenters,5.3,1896-03-22,fr,[99],True
+930211,Les congierges,1,1896-03-31,fr,[],True
+930138,Les démolisseurs,0,1896-03-31,fr,[],True
+865154,Fontaine de Trevi,1,1896-03-12,fr,[99],True
+851386,96ème de ligne en marche,1,1896-03-29,fr,[99],True
+848351,Infanterie,1,1896-03-12,fr,[99],True
+848349,Carabiniers,1,1896-03-12,fr,[99],True
+814715,"Demolition of a Wall, I",1,1896-03-06,fr,[99],True
+768134,"Sortie d’usine, [II]",2,1896-03-10,fr,[99],True
+682215,Milan: The Rowers,1,1896-03-12,fr,[99],True
+404012,Le forum,1,1896-03-12,fr,[99],True
+385618,Little Egypt,2.3,1896-03-01,en,[99],True
+321687,Abattage d'un arbre,1,1896-03-08,fr,[99],True
+231101,Aquarium,5,1896-03-22,xx,[99],True
+194577,"Rome, pont Ripetta",3.8,1896-03-12,fr,[99],True
+194564,Levée de filets de pêche,4.5,1896-03-12,fr,[99],True
+194281,Cyclistes et cavaliers arrivant au cottage,4.3,1896-03-08,fr,[99],True
+194247,Bains de Diane (Milan),5.8,1896-03-12,fr,[99],True
+190592,Herald Square,4,1896-03-11,en,[],True
+94570,The Kiss,5.2,1896-04-01,xx,"[18, 10749]",True
+189571,The Mechanical Butcher,5.7,1896-04-18,fr,"[35, 878]",True
+851955,Schlossplatz,1,1896-04-16,fr,[99],True
+152454,Loading a Boiler,4.2,1896-04-19,fr,[99],True
+159619,Partie de boules,5.6,1896-04-18,xx,[],True
+786515,Port de la Joliette,1,1896-04-11,fr,[99],True
+190575,Bassin des Tuileries,5.1,1896-04-05,en,[99],True
+231040,"Paris, Champs-Elysées (voitures)",5.2,1896-04-25,fr,[99],True
+851954,Karlsplatz,1,1896-04-16,fr,[99],True
+194569,La Canebière,4.9,1896-04-11,fr,[99],True
+189579,Départ en voiture,4.7,1896-04-25,fr,[99],True
+190560,Lancement d'un navire,5.5,1896-04-20,fr,[99],True
+642460,"Francfort-sur-le-Main, Alter-Marktplatz",4.3,1896-04-15,fr,[99],True
+321753,La Bourse,1,1896-04-11,fr,[],True
+851966,Stuttgart : 26ème dragons. Défilé,1,1896-04-16,fr,[99],True
+851963,Stuttgart : 26ème dragons. Sauts d’obstacles,1,1896-04-16,fr,[99],True
+851956,Fontaine sur le Schlossplatz,1,1896-04-16,fr,[99],True
+851951,Lombards Brücke,1,1896-04-16,fr,[99],True
+844541,Cygnes,1,1896-04-05,fr,[99],True
+696642,A Corner of Barnet Fair,6,1896-04-24,en,[99],True
+321689,Enfant et chien,4,1896-04-25,fr,[99],True
+194597,Maximilianeum,5,1896-04-16,fr,[99],True
+322617,"Arroseur et arrosé, II",5.7,1896-05-01,fr,[35],True
+282867,Tsar et tsarine entrant dans l'église de l'Assomption,4.3,1896-05-26,xx,[99],True
+320677,L'Impératrice mère et la grande-duchesse Eugénie en carrosse,4.3,1896-05-26,xx,[99],True
+844533,Boxeurs,1,1896-05-17,fr,[99],True
+212185,Récréation à la Martinière,4.7,1896-05-10,fr,[99],True
+194175,"Moscow, Tverskaia Street",5.1,1896-05-28,fr,[99],True
+190584,Boules Game,5.4,1896-05-31,fr,[99],True
+231110,Balançoires,5.4,1896-05-31,fr,[99],True
+168407,Fatima's Coochee-Coochee Dance,4.9,1896-05-03,xx,[99],True
+453070,Count of Montebello and General de Boisdeffre going to the Kremlin [Moscow],4.6,1896-05-26,xx,[99],True
+519008,Cologne : sortie de la cathédrale,4.8,1896-05-03,fr,[99],True
+178755,"Arab Cortege, Geneva",5,1896-05-08,fr,[99],True
+827543,Danse égyptienne,4,1896-05-08,fr,[99],True
+194112,The Bad Boy and the Gardener,4,1896-05-26,en,[35],True
+194594,Les souverains et les invités se rendant au sacre (escalier rouge),4.3,1896-05-26,fr,[99],True
+191590,Fête au village,4.8,1896-05-09,fr,[99],True
+850710,Abreuvoir,1,1896-05-03,fr,[99],True
+832203,Comtesse de Montebello,1,1896-05-26,fr,[99],True
+827546,Place Bel-air,1,1896-05-10,fr,[99],True
+827541,Cascade,5,1896-05-07,fr,[99],True
+787710,Sous les tilleuls,1,1896-05-02,en,[99],True
+759887,Soupe des soldats,1,1896-05-24,fr,[],True
+710935,"Scene on Surf Ave., Coney Island",7,1896-05-31,en,[99],True
+710931,Sea Beach Scene,7,1896-05-31,en,[99],True
+642457,Francfort : réception de Guillaume II,4.1,1896-05-10,fr,[99],True
+611181,Admiral Sallandrouze and General Tournier,1,1896-05-27,fr,[99],True
+522775,Cologne : arrivée de l'express,1,1896-05-03,fr,[99],True
+453069,Asian Delegations,4.4,1896-05-27,fr,[99],True
+231601,The Soldier's Courtship,4,1896-05-30,en,[18],True
+231084,Rentrée à l'étable,5,1896-05-10,fr,[99],True
+231064,Washing Day in Switzerland,5.2,1896-05-10,fr,[99],True
+194573,Place de la Comédie,4.3,1896-05-18,en,[],True
+194561,Arrivée en voiture,4.4,1896-05-27,fr,[99],True
+194252,Scaphandrier,4.4,1896-05-03,fr,[99],True
+194241,Géant et nain,5,1896-05-10,fr,[35],True
+194167,Dr. Macintyre's X-Ray Film,1,1896-05-17,en,[99],True
+194165,Yarmouth Fishing Boats Leaving Harbour,3.3,1896-05-17,en,[99],True
+190554,Scene from the Coronation of the Czar of Russia,5.2,1896-05-25,en,[99],True
+178998,The Derby,5,1896-05-29,en,[99],True
+366950,Déchargement d’un navire,4,1896-06-21,fr,[99],True
+196580,Pigeons sur la place Saint-Marc,4.8,1896-06-14,fr,[99],True
+827527,Hallebardiers de la reine,5,1896-06-18,fr,[99],True
+679825,The Queen's Lancers: Charge [Spain],3.7,1896-06-17,fr,[99],True
+851384,Leçon d’escrime : assaut,1,1896-06-12,fr,[99],True
+827521,Cyclistes militaires,1,1896-06-17,fr,[99],True
+827516,Défilé du génie,1,1896-06-17,fr,[99],True
+851377,Cuirassiers : en fourrageurs (charge),1,1896-06-03,fr,[99],True
+231591,Le Ring,6,1896-06-14,fr,[99],True
+194579,Voitures automobiles,4.8,1896-06-14,xx,[],True
+231598,Puerta del Sol,4.7,1896-06-15,es,[99],True
+189058,Shooting the Chutes,3.8,1896-06-15,xx,[99],True
+194264,"Budapest, pont suspendu",4.5,1896-06-14,fr,[99],True
+679826,Porte de Tolède,4.3,1896-06-16,fr,[99],True
+415133,"Venise, arrivée en gondole",5.1,1896-06-16,fr,[99],True
+194109,Danse au bivouac,4.8,1896-06-18,fr,[99],True
+827514,Lanciers de la reine : défilé,1,1896-06-17,fr,[99],True
+1165243,Hard Wash,1,1896-06-01,en,[],True
+851378,Cuirassiers : mêlée (longueur : 12 mètres),1,1896-06-03,fr,[99],True
+851375,Cuirassiers : départ,1,1896-06-02,fr,[99],True
+832206,Vienne : retour des courses,1,1896-06-02,fr,[99],True
+827531,Artillerie (exercice du tir),1,1896-06-18,fr,[99],True
+827528,Garde descendante du palais royal,1,1896-06-18,fr,[99],True
+827524,Distribution des vivres aux soldats,1,1896-06-17,fr,[99],True
+694185,Conjuring,5.1,1896-06-15,fr,[],True
+679813,Exercice du sabre,3,1896-06-17,fr,[99],True
+666580,Budapest : cortège du sceptre royal,1,1896-06-09,fr,[99],True
+432571,"Paris, rue de Castiglione",4.5,1896-06-30,en,[],True
+270384,Landing at Low Tide,3,1896-06-01,en,[],True
+268304,Enfants aux jouets,5.1,1896-06-07,xx,[],True
+231380,"Budapest, Crown Procession",3.8,1896-06-08,fr,[99],True
+230963,Venice Showing Gondolas,5.3,1896-06-18,xx,[99],True
+194578,"Vienne, entrée du cinématographe",4.6,1896-06-15,fr,[99],True
+194566,"Madrid, arrivée des toréadors",4.8,1896-06-14,fr,[99],True
+194276,Cuirassiers à cheval,4,1896-06-03,fr,"[99, 10752]",True
+183277,Chirgwin in His Humorous Business,4,1896-06-01,en,[],True
+194272,Procession to Princess Maud's Wedding,4.7,1896-07-28,fr,[99],True
+152456,Ostriches,5,1896-07-12,fr,[99],True
+194267,Cavalcade (char de la soierie),4,1896-07-12,fr,[99],True
+194559,Départ de cyclistes,4.8,1896-07-12,fr,[99],True
+163357,Bicyclist,6,1896-07-04,fr,[99],True
+964956,Vienna,1,1896-07-01,en,[99],True
+851380,Leçon d’escrime : salut,0,1896-07-12,fr,[99],True
+844552,Cavalcade (guerriers romains et abyssins),0,1896-07-12,fr,[99],True
+844525,Nègres en corvée,0,1896-07-12,fr,[99],True
+833539,Elephants,0,1896-07-12,fr,[99],True
+713293,Danse russe,1,1896-07-09,fr,[99],True
+231433,Baignade de nègres,4.4,1896-07-11,fr,[99],True
+231061,"Toulouse, rue Alsace-Lorraine",4.5,1896-07-12,fr,[99],True
+194249,"Barcelone, panorama du port I",4.7,1896-07-05,en,[99],True
+194168,"Passaic Falls, New Jersey",3,1896-07-17,en,[],True
+181379,Scene on the River Thames,4.3,1896-07-01,en,[],True
+152458,"Lion, London Zoological Gardens",4.8,1896-08-10,en,[99],True
+192797,Défilé de jeunes filles au lycée,4,1896-08-06,fr,[99],True
+786526,Pont de la Tour,0,1896-08-30,fr,[99],True
+193625,"Dresden, August-Brücke",4.9,1896-08-23,de,[99],True
+823203,Danse javanaise,0,1896-08-09,fr,[99],True
+144462,Rip Van Winkle,4.1,1896-08-01,en,[],True
+193789,Jongleur javanais,4.6,1896-08-09,fr,[99],True
+190563,London Street Dancers,5.4,1896-08-22,en,[],True
+152455,Dragoons Crossing the Sâone,4.4,1896-08-23,fr,[99],True
+404016,"Mexico, Spanish Street Dance",3.5,1896-08-06,fr,[99],True
+194110,Writing Backwards,5.8,1896-08-30,fr,[],True
+851392,Postplatz,6,1896-08-23,fr,[99],True
+195513,Guillaume Tell,5,1896-08-01,fr,"[16, 35]",True
+198322,Embarquement,4.6,1896-08-16,fr,[99],True
+231130,"Dresde, vieux quartier à l'Exposition",4.3,1896-08-23,fr,[99],True
+321752,"Sortie d'usine, [III]",5.7,1896-08-15,fr,[99],True
+851964,Stuttgart : 26ème dragons. Pied à terre,0,1896-08-16,fr,[99],True
+851962,Cortège du prince Weimar,0,1896-08-02,fr,[99],True
+851960,Cortège de cavaliers,0,1896-08-02,fr,[99],True
+851959,Cortège des anciens Germains,0,1896-08-02,fr,[99],True
+851957,Cortège sur le Schlossplatz,0,1896-08-01,fr,[99],True
+848977,Départ d’un bateau à vapeur sur le lac Léman,0,1896-08-16,fr,[99],True
+848975,Barques,4,1896-08-16,fr,[99],True
+834236,Le président prenant congé de ses ministres,0,1896-08-06,fr,[99],True
+823209,Lutteurs javanais,4,1896-08-09,fr,[99],True
+679786,Bains sur le Rhône,3.3,1896-08-08,en,[],True
+584100,"Pelicans, London Zoological Garden",4,1896-08-15,fr,[99],True
+426909,Carga de rurales,4,1896-08-16,es,[99],True
+404015,Marche Indien sur le canal de la Viga,4.1,1896-08-06,fr,[99],True
+404013,Exercise a la baionette,0,1896-08-14,fr,[99],True
+318787,Le président en promenade,4.6,1896-08-06,fr,[99],True
+270712,"Boxing Match; or, Glove Contest",3.7,1896-08-03,en,[99],True
+231694,Scènes d'enfants,4,1896-08-23,fr,[99],True
+231469,Butterfly Dance,4.7,1896-08-31,en,[99],True
+231032,Tigers at the Zoo,4.8,1896-08-15,fr,[99],True
+198362,"Londres, Piccadilly Circus",5.2,1896-08-23,en,[99],True
+194270,Concours de bébés,4.3,1896-08-02,fr,[99],True
+194164,Débarquement,3,1896-08-16,fr,[99],True
+193648,Repas d'indiens,4,1896-08-06,fr,[99],True
+183293,"Two AM; or, The Husband's Return",4.4,1896-08-01,en,[18],True
+183270,The Twins' Tea Party,5.1,1896-08-01,en,[],True
+178696,"McKinley at Home, Canton, Ohio",4.1,1896-09-01,en,[99],True
+178758,Chicago Police Parade,4.7,1896-09-20,fr,[99],True
+318814,"New York, Avenue et Union Square",4.5,1896-09-25,en,[99],True
+231464,"New York, patineurs au Parc central",4.5,1896-09-28,fr,[99],True
+827892,Métropolitain,0,1896-09-27,fr,[99],True
+146579,Rip's Twenty Years' Sleep,4.3,1896-09-30,en,[],True
+194169,"New York, descente des voyageurs du pont de Brooklyn",5.2,1896-09-28,fr,[99],True
+786525,Potsdamer Platz,0,1896-09-06,fr,[99],True
+146580,Awakening of Rip,4.1,1896-09-30,en,[],True
+230951,Radeau avec baigneurs,5.1,1896-09-06,fr,[99],True
+193630,Baby's First Steps,5.6,1896-09-06,fr,[99],True
+146564,Exit of Rip and the Dwarf,4.1,1896-09-30,en,"[37, 18]",True
+146574,Rip Meeting the Dwarf,4.2,1896-09-30,en,[],True
+146522,Rip Leaving Sleepy Hollow,4.2,1896-09-30,en,[],True
+146576,Rip's Toast,4.1,1896-09-30,en,[],True
+231375,Lyon : débarquement d'une mouche,5.1,1896-09-12,fr,[],True
+190588,Berlin: Panoptikum,4.8,1896-09-05,fr,[99],True
+178757,New York: Broadway at Union Square,4.8,1896-09-26,fr,[99],True
+146565,Rip Passing Over the Mountain,4.2,1896-09-30,en,[],True
+827807,"New York, Broadway et Reade Street",0,1896-09-25,fr,[99],True
+146573,Rip's Toast to Hudson,4.3,1896-09-30,en,[],True
+321694,Repas en famille,2.3,1896-09-06,xx,[99],True
+178991,Niagara Falls,4.8,1896-09-29,fr,[99],True
+366954,"New York, Broadway",5.4,1896-09-25,fr,[99],True
+321690,Leçon de bicyclette,5,1896-09-17,fr,[99],True
+231125,Chutes du Rhin vues de loin,4.7,1896-09-28,fr,[99],True
+231035,Transport de la cloche de l'indépendance,4.8,1896-09-15,en,[99],True
+194179,Serpentine Dances by Annabelle,5.3,1896-09-17,en,[],True
+178756,"New York, Brooklyn Bridge",5.1,1896-09-28,fr,[99],True
+193620,New York. Arrival of a Train at Battery Place,4.4,1896-09-27,fr,[99],True
+194171,"New York, Whitehall Street",4.8,1896-09-26,xx,[99],True
+1122117,Tambourine Dance by Annabelle,0,1896-09-01,en,[],True
+912687,Arrestation d'un ivrogne,0,1896-09-17,en,[35],True
+848633,Coiffures,6,1896-09-20,fr,[35],True
+848344,Embarquement d’un cheval,2,1896-09-13,fr,[99],True
+844554,Danse sur scène (pas de deux),0,1896-09-06,fr,[99],True
+827897,"Niagara, les rapides",0,1896-09-29,fr,[99],True
+827786,"Chicago, Michigan avenue",0,1896-09-20,fr,[99],True
+827740,"Boston, Tremont row",0,1896-09-19,fr,[99],True
+827731,"Boston, Atlantic avenue",0,1896-09-19,fr,[99],True
+827705,"Boston, Market street",0,1896-09-19,fr,[99],True
+827695,"Boston, Washington street",0,1896-09-19,fr,[99],True
+823851,Marble arch,0,1896-09-06,fr,[99],True
+783247,Trilby and Little Billee,0,1896-09-14,en,[],True
+759889,Moutons entrant à l'abattoir,0,1896-09-13,fr,[99],True
+679792,"Boston, Commercial Street",3,1896-09-19,fr,[99],True
+614827,"New York, Broadway and Wall Street",0,1896-09-25,fr,[99],True
+415650,The Broken Melody,1,1896-09-30,en,[18],True
+323287,Pont sur le Rhin,0,1896-09-21,fr,[99],True
+323279,Görlitz : revue devant Guillaume II et Nicolas II,0,1896-09-08,fr,[99],True
+323276,Guillaume II et Nicolas II à cheval,0,1896-09-05,fr,[99],True
+323274,III. Défilé de hussards devant Guillaume II,0,1896-09-05,xx,[99],True
+323266,I. Avant l'inauguration. Arrivée des souverains,0,1896-09-04,fr,[99],True
+231120,"Berlin, Hallesches Thor",5.6,1896-09-06,fr,[99],True
+231065,Défilé du 8e bataillon,4.3,1896-09-28,fr,[99],True
+231055,"Chicago, Grande Roue",5.4,1896-09-20,fr,[99],True
+230959,II. Inauguration,0,1896-09-05,fr,[99],True
+194269,Pont de bateaux,4.7,1896-09-21,fr,[99],True
+194260,Woodcutters,4.8,1896-09-22,fr,[99],True
+194253,Panorama pris d'un bateau,5,1896-09-21,fr,[99],True
+193646,Humorous Rollerskater,4.1,1896-09-14,fr,[35],True
+193631,Danse Tyrolienne,4.4,1896-09-21,xx,[99],True
+190589,"Brooklyn, Fulton Street",4.6,1896-09-26,fr,[99],True
+231070,Cherbourg : entrée des souverains russes et du président de la République sous le hall,4,1896-10-05,fr,[99],True
+231596,Comic Encounter in the Djurgården,3.7,1896-10-30,de,[35],True
+190553,Panorama du grand Canal pris d'un bateau,5.9,1896-10-25,fr,[99],True
+163053,A Morning Bath,4.1,1896-10-30,en,[],True
+178989,Pompiers : attaque du feu,5.2,1896-10-11,fr,[99],True
+190572,Course en sacs,5.8,1896-10-25,fr,[99],True
+190567,Enfants jouant aux billes,5.4,1896-10-04,fr,[99],True
+190574,Champs-Élysées,5.3,1896-10-09,fr,[],True
+231128,Bal d'enfants,5.5,1896-10-29,fr,[99],True
+190591,Ploughing,4.8,1896-10-25,fr,[99],True
+786516,Vieux port,0,1896-10-01,fr,[99],True
+352903,Paris : dragons de l’escorte,5,1896-10-08,fr,[99],True
+231599,Il Finto Storpio,3,1896-10-30,it,[80],True
+231593,The Turn-of-the-Century Barber,4.8,1896-10-30,fr,"[35, 14]",True
+152219,Feeding the Doves,5.1,1896-10-23,en,[99],True
+525194,Cavalier sur un cheval rétif,3.3,1896-10-20,fr,[99],True
+190586,"Milan, place du Dôme",5.1,1896-10-01,fr,[99],True
+262852,Paris : les souverains russes et le président de la République aux Champs-Élysées,4.8,1896-10-06,fr,[99],True
+352905,Paris : général Saussier et son état-major,5,1896-10-09,fr,[99],True
+1165249,American Falls from Goat Island,0,1896-10-02,en,[],True
+1165246,American Falls from Luna Island,0,1896-10-02,en,[],True
+848358,Pompiers : sauvetage,0,1896-10-11,fr,[99],True
+848354,Pêche à l’épervier,0,1896-10-18,fr,[99],True
+832195,"Rome, Piazza Colonna",0,1896-10-25,fr,[99],True
+832194,"Rome, fin du cortège au mariage du prince de Naples",0,1896-10-24,fr,[99],True
+824981,Cherbourg : débarquement des souverains russes,0,1896-10-05,fr,[99],True
+764845,Arrivée du Tzar à Paris,0,1896-10-03,en,[99],True
+755952,Baigneurs en Seine à Paris,0,1896-10-16,en,[99],True
+602690,Children in the Nursery,5.5,1896-10-01,en,[],True
+579374,Empire State Express,0,1896-10-01,en,[99],True
+569468,Panorama of St. Mark's Square Taken From a Boat,4.7,1896-10-25,fr,[99],True
+404017,Lassage d'un cheval sauvage,1,1896-10-20,fr,[99],True
+386329,Danse mexicaine,0,1896-10-20,fr,[99],True
+352908,Turcos (défilé),0,1896-10-10,fr,[99],True
+352902,Paris : chasseurs à cheval et spahis de l’escorte,0,1896-10-07,fr,[99],True
+265028,La foule sur la place de l’Opéra,4.6,1896-10-09,fr,[99],True
+240240,Pompiers : mise en batterie,4.4,1896-10-25,fr,[99],True
+231595,Brighton Beach,3.5,1896-10-30,en,[],True
+231093,"Nîmes, sortie de l'église",4.5,1896-10-31,fr,[99],True
+231092,Combat de coqs,3.8,1896-10-20,fr,[99],True
+195104,"Rome, Wedding Procession of the Prince of Naples",4,1896-10-24,fr,[99],True
+194574,Pompiers : sortie de la pompe,5,1896-10-25,en,[99],True
+194567,Repas des chats,4.8,1896-10-04,fr,[99],True
+194562,Lassage des bœufs pour le labour,4.6,1896-10-20,fr,[99],True
+194182,Horses Bathing,4.6,1896-10-20,fr,[99],True
+190583,Joueurs de cartes arrosés,5.4,1896-10-18,fr,[35],True
+189806,The Burning Stable,4,1896-10-31,en,[99],True
+183273,A Sea Cave Near Lisbon,5.2,1896-10-29,en,[99],True
+302980,Bedtime for the Bride,4.7,1896-11-26,fr,[18],True
+152453,Children Digging for Clams,4.9,1896-11-07,fr,[99],True
+320713,La Foule,0,1896-11-24,xx,[],True
+835964,Cours Belsunce,0,1896-11-29,fr,[99],True
+191588,Roi et Reine d'Italie,4.4,1896-11-20,fr,[99],True
+263192,Place de l'Opéra,4.9,1896-11-14,fr,[99],True
+190570,Lyon : Quai de l'Archevêché,5.4,1896-11-08,fr,[99],True
+231114,"Melbourne, les courses : sorties des chevaux",4.3,1896-11-03,fr,[99],True
+188398,The Melbourne Cup,5,1896-11-23,en,[99],True
+189807,Mounted Police Charge,3.4,1896-11-02,en,[99],True
+850709,Mâcon : panorama pris d’un train,5,1896-11-29,fr,[99],True
+426913,Le czar en France - défilé des troupes,1,1896-11-20,en,[],True
+1111879,A Morning Alarm,7,1896-11-27,xx,[99],True
+1037265,Zwemplaats voor Jongelingen te Amsterdam,0,1896-11-28,nl,[99],True
+1037262,Spelende kinderen,0,1896-11-28,nl,[99],True
+1037261,Gestoorde hengelaar,0,1896-11-28,nl,[35],True
+1016575,Vistas de Palermo,0,1896-11-24,es,[99],True
+764926,Voyage dans un train,0,1896-11-16,en,[99],True
+525193,Lassage d'un boeuf sauvage,3.3,1896-11-03,fr,[99],True
+426922,Les bains de la jetée des pâquis,3.5,1896-11-20,en,[],True
+426920,Exposition nationale suisse. Palais des beaux-arts,3.5,1896-11-20,en,[],True
+426919,Tramway à vapeur et passagers,3.5,1896-11-20,en,[],True
+426916,Arrivée d'un train,4.7,1896-11-20,fr,[],True
+320739,Arrival of a Train at Melbourne,1,1896-11-24,xx,[99],True
+320734,La Course,0,1896-11-24,xx,[],True
+320722,Enceinte du pesage,0,1896-11-24,xx,[],True
+320718,Arrivée du gouverneur,0,1896-11-19,xx,[],True
+231603,No Jardim,4.5,1896-11-28,en,[99],True
+231592,Feira de Gado na Corujeira,3.7,1896-11-12,pt,[],True
+231117,"Melbourne, les courses : présentation du vainqueur",4.3,1896-11-03,fr,[99],True
+231107,Lyon : sauvetage de lapins,4.5,1896-11-08,fr,[99],True
+194259,Arc de Triomphe,4.5,1896-11-14,fr,[99],True
+193803,Fish Market,4.2,1896-11-22,fr,[],True
+190585,Workers Exit from the Confiança Shirt Factory,4.2,1896-11-12,pt,[99],True
+133063,The Haunted Castle,6.5,1896-12-24,fr,"[14, 27]",True
+104469,A Nightmare,5.9,1896-12-25,fr,[27],True
+126413,Sandow,5.2,1896-12-30,en,[99],True
+194583,Alger: rue Bab-Azoun,4.9,1896-12-19,fr,[99],True
+827419,Place Bab-Souika,0,1896-12-24,fr,[99],True
+827498,Souk el Bey,3,1896-12-24,fr,[],True
+822784,Chargement d’un wagon de tonneaux,0,1896-12-15,fr,[99],True
+193804,Pistol Duel,5.5,1896-12-12,fr,[18],True
+321691,Marché,4.5,1896-12-24,fr,[99],True
+786523,Rue Sidi-Ben-Arous,0,1896-12-24,fr,[99],True
+827409,Rue El-Halfaouine,0,1896-12-24,fr,[99],True
+630022,Alger : déchargement au port,4.7,1896-12-20,en,[99],True
+825413,Rue de France,0,1896-12-23,fr,[99],True
+1073986,The Sprinkler Sprinkled,0,1896-12-31,en,[35],True
+827495,Marché aux légumes,0,1896-12-24,fr,[99],True
+827493,Marché aux poissons,4.5,1896-12-24,fr,[99],True
+827408,Porte de France,0,1896-12-24,fr,[99],True
+827375,Rue et porte Bab-el-Khadra,0,1896-12-24,fr,[99],True
+827256,Halte à la gare,0,1896-12-23,fr,[99],True
+825403,Rue Sidi-Bou-Medine,0,1896-12-22,fr,[99],True
+825300,Rue Mascara,0,1896-12-21,fr,[99],True
+825239,Marché arabe,4,1896-12-17,fr,[99],True
+722409,Ujazdów Avenue,0,1896-12-31,xx,[99],True
+697729,Wash Day Trouble,0,1896-12-31,en,[],True
+680047,Tunis: Le Bey et son escorte,3.3,1896-12-23,en,[99],True
+671449,Unloading Grain,0,1896-12-04,fr,[99],True
+434878,Anes,4.5,1896-12-17,fr,[99],True
+268211,Sortie d'une noce à l'église,5,1896-12-31,en,[],True
+263856,Cock Fight,4.7,1896-12-01,en,[99],True
+231608,Why Papa Cannot Sleep,1,1896-12-30,en,[],True
+231122,Alger : place du gouvernement,4.5,1896-12-18,fr,[99],True
+194172,Alger : prière du muezzin,3.8,1896-12-16,fr,[99],True
+193800,Marché aux charbons (avec chameaux),3.8,1896-12-24,fr,[99],True
+190582,Black Diamond Express,4.7,1896-12-01,en,[99],True
+189812,"American Falls from Above, American Side",4,1896-12-12,en,[99],True
+189810,The Morning Alarm,3.8,1896-12-31,xx,[99],True
+189809,Going to the Fire,3.9,1896-12-31,xx,[99],True
+148236,Scenes at Balmoral,3.3,1896-12-31,en,[],True
+104476,The Bewitched Inn,6.3,1897-01-01,fr,[14],True
+104477,After the Ball,5.1,1897-01-01,fr,[],True
+104471,The Haunted Castle,5.6,1897-01-01,fr,[27],True
+318809,Acteurs japonais : bataille au sabre,4.3,1897-01-10,fr,"[28, 99]",True
+194603,Naval Combat in Greece,5.2,1897-01-01,fr,"[18, 36, 10752]",True
+104474,Between Calais and Dover,5.4,1897-01-01,fr,[35],True
+119955,The Burglars,4.1,1897-01-01,fr,"[28, 35, 80]",True
+104473,The Surrender of Tournavos,4.9,1897-01-01,en,"[28, 10752, 18, 36]",True
+194570,Mauvaises herbes,5.2,1897-01-04,fr,[99],True
+188417,Partie de cartes,5.5,1897-01-01,fr,[18],True
+599678,Boxing Match,6,1897-01-01,xx,[28],True
+194599,Repas en famille,5.3,1897-01-09,fr,[99],True
+119949,Bathing in a Stream,4.4,1897-01-01,fr,[99],True
+832886,Sortie d’un temple shintoïste,0,1897-01-09,fr,[99],True
+183311,Women Fetching Water from the Nile,4.3,1897-01-01,en,[99],True
+598090,Afternoon Tea in the Gardens of Clarence House,2.5,1897-01-01,en,[99],True
+832865,Arrivée d’un train à Nagoya,0,1897-01-09,fr,[99],True
+195092,Entrée d'une noce à l'église,4.8,1897-01-01,fr,[99],True
+323308,Yokohama : déchargement dans un port,0,1897-01-09,fr,[99],True
+321770,Bath Scene,4.3,1897-01-28,en,[],True
+195139,Driving with Greenland Dogs,5.5,1897-01-01,da,[99],True
+147610,The Corbett-Fitzsimmons Fight,5.5,1897-01-01,en,[99],True
+183299,"Head of Colonial Procession, Canadians, etc",4.3,1897-01-01,en,[99],True
+751664,Firing the Maxim Gun,5,1897-01-01,en,[],True
+751670,Passage des portiques (École de gymnastique de Joinville),6,1897-01-01,en,[],True
+119948,The Fisherman at the Stream,4.6,1897-01-01,fr,[35],True
+1223141,La puce,0,1897-01-01,fr,[],True
+1155753,Music-Loving Wood Sawyer,0,1897-01-01,en,[],True
+1082229,The Transformation of a Hat,0,1897-01-01,xx,[35],True
+1066402,Marché à Berne,0,1897-01-01,fr,[99],True
+1049676,Brighton Seagoing Electric Car,5.5,1897-01-01,en,[99],True
+1036324,Arrival of a Two-Stage Train in France,0,1897-01-01,fr,[],True
+848347,Via Roma,3.5,1897-01-10,fr,[99],True
+834622,Baignade de négrillons,0,1897-01-15,fr,[99],True
+821532,L'arroseur arrosé,7,1897-01-01,fr,[],True
+791527,"D. Devant, Conjurer",4.8,1897-01-01,xx,[],True
+786511,Zermatt : Panorama dans les Alpes,0,1897-01-01,fr,[99],True
+780844,Fregoli retroscena ovvero Fregoli donna,0,1897-01-01,it,"[35, 9648]",True
+780842,Fregoli in palcoscenico ovvero Fregoli barbiere maldestro,0,1897-01-01,it,"[35, 9648]",True
+780838,Burla al marito,0,1897-01-01,it,"[35, 9648]",True
+751674,A Camp of Zingaree Gypsies,4,1897-01-01,en,[],True
+751662,Hiram Maxim and His Quick-firing Gun,5.5,1897-01-01,en,[],True
+750088,Home Life of a Hungarian Family,4.5,1897-01-01,en,[99],True
+719504,La bandera argentina,0,1897-01-01,es,[],True
+717968,"Panorama des rives de la Seine, II",6,1897-01-02,xx,[],True
+717965,"Panorama des rives de la Seine, I",6,1897-01-01,xx,[],True
+717261,Ancoradouro de Pescadores na Baía de Guanabara,0,1897-01-01,pt,[],True
+668555,Via Marina,4,1897-01-06,fr,[99],True
+625754,A Terrible Night (Remake),4,1897-01-01,fr,[],True
+607021,The Grasshopper and the Ant,1,1897-01-01,fr,[],True
+601923,Queen Victoria's Diamond Jubilee Taken from Apsley,0,1897-01-01,en,[99],True
+599680,Fencing at the Joinville School,6,1897-01-01,en,[],True
+599676,An Irritable Model,6,1897-01-01,xx,[],True
+581450,"Sackville Street, Dublin",4,1897-01-01,fr,[99],True
+429891,Serpentine Dance - Annabelle,4.4,1897-01-01,en,[99],True
+415825,Faust and Marguerite,3.4,1897-01-01,fr,[],True
+415463,The Devil's Laboratory,3.3,1897-01-01,en,[27],True
+401040,The Parisians,0,1897-01-01,en,[],True
+365679,Changing Guard (Berlin),6,1897-01-01,en,[],True
+333064,Alexandria Consulate,0,1897-01-02,en,[],True
+329885,The Mischievous Monkey,3,1897-01-01,en,[35],True
+323301,Dîner japonais,0,1897-01-09,fr,[99],True
+323290,Chutes du Rhin vues de près,0,1897-01-24,fr,[99],True
+323280,Bersagliers,0,1897-01-17,fr,[99],True
+318808,"Panorama pris en chemin de fer, départ de Dammurey",4.7,1897-01-16,en,[],True
+318803,Voyage de M. le Président Félix Faure en Russie (Août 1897): Arrivée du président et du Czar à Peterhof,4.3,1897-01-16,en,[],True
+282207,Chicken Thieves,3.3,1897-01-02,en,[],True
+280661,A Bicycle Trip Through Europe,0.5,1897-01-01,xx,[],True
+279059,Arab Knife Grinder at Work,1,1897-01-02,en,[],True
+231698,La Palestina en 1896,6.1,1897-01-01,fr,[99],True
+231346,Une rue à Tokyo,4.3,1897-01-10,fr,[99],True
+231158,"Rome, la gare",4.3,1897-01-17,fr,[99],True
+198363,Sauts au cheval en longueur,4.5,1897-01-01,en,[],True
+196250,Charmeur d'oiseaux,4.3,1897-01-01,fr,[],True
+195072,Police Patrol Wagon,2.5,1897-01-20,en,[],True
+194484,Le cocher endormi,4.4,1897-01-01,en,[],True
+193627,Garde descendante du Palais Saint James,4.4,1897-01-01,fr,[],True
+193615,Jeu de la poêle,4.3,1897-01-01,en,[],True
+192796,Le cigare introuvable,4.3,1897-01-01,fr,[35],True
+191597,"Paris, Place de la République",4.3,1897-01-01,en,[],True
+189813,The First Sleigh-Ride,3.7,1897-01-01,en,[99],True
+185447,Dewars Scotch Whisky,3.1,1897-01-01,en,[35],True
+183315,Robbery,3.7,1897-01-01,en,"[80, 35]",True
+183312,Fishermen and Boat at Port Said,4.3,1897-01-01,en,[99],True
+183310,Life Guards and Princes North of St Paul's,4,1897-01-01,en,[99],True
+183309,Queen's Carriage and Indian Escort Arriving at St. Paul's,4.3,1897-01-01,en,[99],True
+183308,Royal Princes in St. Paul's Churchyard,4.4,1897-01-01,en,[99],True
+183306,Royal Carriage Arriving at St Paul's,4.3,1897-01-01,en,[99],True
+183304,Dragoons Passing St Paul's,4.3,1897-01-01,en,[99],True
+183303,Caped Mounted Riflemen Passing St Paul's,4,1897-01-01,en,[99],True
+183300,Royal Carriages Passing Westminster,4.3,1897-01-01,en,[99],True
+183294,Head of Procession Including Bluejackets,4.3,1897-01-01,en,[99],True
+119950,Serpentine Dance by Mme. Bob Walter,5.2,1897-01-01,fr,[99],True
+144391,Snowball Fight,6.6,1897-02-07,fr,"[99, 35]",True
+786510,Panorama du départ de la gare d’Ambérieu pris du train (temps de neige),0,1897-02-07,fr,[99],True
+848628,Touristes revenant d’une excursion,0,1897-02-28,fr,[99],True
+665050,"Ten Inch Disappearing Carriage Gun Loading and Firing, Sandy Hook",1,1897-02-02,en,[],True
+453220,"Projectile from Ten Inch Disappearing Gun Striking Water, Sandy Hook",3,1897-02-21,en,[99],True
+343928,Fire Drill,3,1897-02-01,fr,[99],True
+321696,"Sortie d'usine, [IV]",4.5,1897-02-01,fr,[99],True
+193617,Danse des Ciociari,4,1897-02-22,fr,[99],True
+828221,Le Caire : Place de l'Opéra,0,1897-03-14,fr,[99],True
+189576,Bonne d'enfants et soldat,5.8,1897-03-08,fr,[35],True
+828311,"Le Caire, rue Tath-el-Rab’",0,1897-03-14,fr,[99],True
+850715,24ème chasseurs alpins : sauts d’obstacles,0,1897-03-07,fr,[99],True
+189582,Bocal aux poissons rouges,5.2,1897-03-21,fr,[99],True
+320674,Le prince et la princesse de Naples,0,1897-03-03,fr,[99],True
+828225,"Le Caire, rue Ataba-el-Khadra",0,1897-03-14,fr,[99],True
+850742,27ème chasseurs alpins : défilé,0,1897-03-14,fr,[99],True
+193633,"Carnaval, [I]",5.3,1897-03-07,fr,[99],True
+152207,Seminary Girls,5.1,1897-03-31,en,[35],True
+850720,27ème chasseurs alpins : défilé du bataillon en masse,0,1897-03-14,fr,[99],True
+193801,"Paris, cortège du bœuf gras (char du prince du carnaval)",4.5,1897-03-07,fr,[99],True
+828234,"Le Caire, rue Sharia-el-Nahassine",0,1897-03-14,fr,[99],True
+193640,"Carnaval, [VII]",1,1897-03-07,fr,[],True
+912491,Deyo,0,1897-03-01,en,[99],True
+865175,Cuirassé américain “San Francisco” en rade de Villefranche (panorama),0,1897-03-14,fr,[99],True
+851389,Le “Magenta”,0,1897-03-14,fr,[99],True
+851388,"Le ""Brennus""",0,1897-03-14,fr,[99],True
+851373,24ème chasseurs alpins : rassemblement,0,1897-03-07,fr,[99],True
+850729,Exercice de boxe,0,1897-03-14,fr,[99],True
+850726,27ème chasseurs alpins : exercice du bâton,0,1897-03-14,fr,[99],True
+850722,27ème chasseurs alpins : assaut du portique,0,1897-03-14,fr,[99],True
+850719,27ème chasseurs alpins : maniement d’armes,0,1897-03-14,fr,[99],True
+850717,24ème chasseurs alpins : exercices d’assouplissement,0,1897-03-07,fr,[99],True
+850716,24ème chasseurs alpins : exercices à la baïonnette,0,1897-03-07,fr,[99],True
+850712,24ème chasseurs alpins : défilé au pas de gymnastique,0,1897-03-07,fr,[99],True
+850711,24ème chasseurs alpins : défilé,0,1897-03-07,fr,[99],True
+848637,Colin-maillard,0,1897-03-21,fr,[35],True
+848630,Bonne d’enfants et cuirassier,0,1897-03-08,fr,[35],True
+828223,"Le Caire, rue Sayeda-Zeinab",0,1897-03-14,fr,[99],True
+828222,"Le Caire, Place Soliman Pacha",0,1897-03-14,fr,[99],True
+828217,"Le Caire, Place du Gouvernement",0,1897-03-14,fr,[99],True
+828213,"Le Caire, Place de la Citadelle",0,1897-03-14,fr,[99],True
+828211,Bédouins avec chameaux sortant de l’octroi,0,1897-03-13,fr,[99],True
+828204,Place Méhémet Ali,0,1897-03-13,fr,[99],True
+828191,Embarquement,0,1897-03-13,fr,[99],True
+828188,Arrivée du train de Ramleh,0,1897-03-13,fr,[99],True
+828183,Le khédive et son escorte,0,1897-03-12,fr,[99],True
+710937,"Jumbo, Horseless Fire-Engine",0,1897-03-31,en,[99],True
+696676,A Bowery Cafe,1,1897-03-24,en,[35],True
+679835,Panorama des quais de la Saône à Lyon pris d'un bateau,3,1897-03-28,fr,[99],True
+513906,Les Parisiennes,3.8,1897-03-04,en,[],True
+453806,The Theatre Hat,3,1897-03-23,en,[],True
+426935,President McKinley's Inauguration,3,1897-03-04,en,[],True
+366956,27ème chasseurs alpins : assaut d'un mur,4,1897-03-14,fr,[99],True
+321526,Défilé du club républicain James Blaine,0,1897-03-04,fr,[99],True
+321524,Défilé de l'artillerie du district de Columbia,4.4,1897-03-04,fr,[99],True
+321523,Executive Mansion,0,1897-03-04,fr,[99],True
+231108,"Washington, le président McKinley adressant son message au peuple",4.3,1897-03-06,fr,[99],True
+231080,Procession of the sacred carpet,4.8,1897-03-13,xx,[99],True
+197274,"Le Caire, un enterrement",4.2,1897-03-14,fr,[99],True
+196583,"Paris, mi-carême : char de la reine des reines",4.3,1897-03-25,fr,[99],True
+195121,"Dance, Franchonetti Sisters",3.3,1897-03-31,en,[99],True
+194581,Défilé de la garde nationale du district de Columbia,4.2,1897-03-05,fr,[99],True
+193642,"Carnaval, [VIII]",4.7,1897-03-08,fr,[],True
+193639,"Carnaval, [VI]",1,1897-03-07,fr,[],True
+193637,"Carnaval, [V]",1,1897-03-07,fr,[],True
+193636,"Carnaval, [IV]",1,1897-03-07,fr,[],True
+193635,"Carnaval, [III]",1,1897-03-07,fr,[],True
+193634,"Carnaval, [II]",1,1897-03-07,fr,[],True
+193618,24th Mountain Infantry: Boxing Lesson,4.8,1897-03-07,fr,[99],True
+189820,"Fifth Avenue, New York",4.7,1897-03-05,en,[],True
+318805,Bal des Sablaises,4.8,1897-04-24,fr,[99],True
+178985,Leaving Jerusalem by Railway,6,1897-04-29,fr,[99],True
+829019,Jérusalem : la voie douloureuse,0,1897-04-27,fr,[99],True
+828932,"Panorama des rives du Nil, [VI]",0,1897-04-20,fr,[99],True
+786544,Jérusalem : la Voie douloureuse et entrée du Saint-Sépulcre,0,1897-04-28,fr,[99],True
+195108,"Cairo, Artillery Parade",4.2,1897-04-19,fr,[99],True
+832296,Débarquement de M. le président au Carnet,0,1897-04-20,fr,[99],True
+194615,"Jérusalem : porte de Jaffa, côté Est",5.3,1897-04-26,fr,[99],True
+196245,Barrage du Nil,4.8,1897-04-18,fr,[99],True
+846659,"Les Chapeaux, I",0,1897-04-25,fr,[99],True
+198316,"Jérusalem, le saint sépulcre",3.8,1897-04-27,fr,[99],True
+231129,Descent of the Great Pyramid,4.3,1897-04-19,fr,[99],True
+833832,"Espagne : courses de taureaux, II",0,1897-04-12,fr,[],True
+832472,Arrivée de M. le président à Sainte-Marie,0,1897-04-26,fr,[99],True
+828316,"Le Caire, Kasr-el-Nil",1,1897-04-18,fr,[99],True
+832208,Train présidentiel,0,1897-04-20,fr,[],True
+194612,The Pyramids (Overview),5.3,1897-04-19,fr,[99],True
+384742,Débarquement,5.1,1897-04-04,fr,[99],True
+193632,Bourricots sous les palmiers,4.5,1897-04-19,fr,[99],True
+212359,"Panorama des rives du Nil, [I]",5.2,1897-04-20,fr,[99],True
+366957,Locomobile,0,1897-04-01,fr,[],True
+713306,Place de la Concorde (vue prise du côté ouest),5,1897-04-04,fr,[99],True
+231135,"Prestidigitateur, I",4.3,1897-04-04,fr,"[35, 99]",True
+829011,Jaffa : panorama en chemin de fer,2,1897-04-25,fr,[99],True
+865201,Le gendarme et le voleur,0,1897-04-25,fr,[99],True
+865200,L’homme-chien,0,1897-04-25,fr,[99],True
+865198,Sauts à la corde,0,1897-04-25,fr,[99],True
+865197,Sauts périlleux,0,1897-04-25,fr,[99],True
+865195,Chapeaux et équilibres,0,1897-04-25,fr,[99],True
+865193,"Les chapeaux, II",0,1897-04-25,fr,[99],True
+865191,Le ballon,0,1897-04-25,fr,[99],True
+865188,Cheval sauteur,0,1897-04-25,fr,[99],True
+865184,"Cheval de haute école, I",0,1897-04-17,fr,[99],True
+848971,"Prestidigitateur, II",0,1897-04-04,fr,"[99, 35]",True
+848635,Charpentier et cartonnier,0,1897-04-11,fr,[35],True
+844566,Départ d’un transatlantique,0,1897-04-04,fr,[99],True
+844564,Dames acrobates,0,1897-04-11,fr,[99],True
+834464,"Battle of the flowers and float parade, III",0,1897-04-04,xx,[99],True
+834458,"Battle of the flowers and float parade, II",0,1897-04-04,xx,[99],True
+834451,"Battle of the flowers and float parade, I",0,1897-04-04,xx,[99],True
+832484,La fanfare des Sables,0,1897-04-23,fr,[],True
+832476,Arrivée en voiture à la gare,0,1897-04-27,fr,[99],True
+832475,Embarquement de M. le président au départ de l’Ile de Ré,0,1897-04-26,fr,[99],True
+832463,Réception à La Flotte,0,1897-04-26,fr,[99],True
+832459,Ré : débarquement de M. le président,0,1897-04-26,fr,[99],True
+832453,Panorama du port,0,1897-04-25,fr,[99],True
+832449,Saintes : remise de décorations,0,1897-04-25,fr,[99],True
+832369,Cortège de M. le président sortant de la gare,0,1897-04-25,fr,[99],True
+832361,M. le président à l’hôpital militaire écoutant le compliment d’une petite fille,0,1897-04-24,fr,[99],True
+832325,Arrivée de M. le président dans l’arsenal,0,1897-04-24,fr,[99],True
+832319,Panorama de l’arsenal,0,1897-04-24,fr,[99],True
+832316,Arrivée de l’Elan,0,1897-04-24,fr,[99],True
+832299,M. le président arrivant au bal des Sablaises,0,1897-04-20,fr,[99],True
+832298,Débarquement des Sablaises,0,1897-04-20,fr,[99],True
+832294,Le président après l’inauguration du monument de Paul Baudry,0,1897-04-20,fr,[99],True
+832209,Le président arrivant à l’inauguration du monument de Paul Baudry,0,1897-04-20,fr,[99],True
+829449,"Le Caire, défilé de l’infanterie",0,1897-04-18,fr,[99],True
+829022,Jérusalem : une rue,0,1897-04-28,fr,[99],True
+829016,"Jérusalem : Porte de Jaffa, côté ouest",0,1897-04-26,fr,[99],True
+829013,Jaffa : panorama en chemin de fer (collines),3,1897-04-25,fr,[99],True
+829010,Jaffa : débarquement d’une barque,0,1897-04-25,fr,[99],True
+828941,"Jaffa : Marché, III",0,1897-04-25,fr,[99],True
+828940,"Jaffa : Marché, II",0,1897-04-25,fr,[99],True
+828939,Jaffa : arrivée d’un train,0,1897-04-25,fr,[99],True
+828935,"Panorama des rives du Nil, [VIII]",0,1897-04-21,fr,[99],True
+828931,"Panorama des rives du Nil, [V]",0,1897-04-20,fr,[99],True
+828927,"Panorama des rives du Nil, [IV]",0,1897-04-20,fr,[99],True
+828923,"Panorama des rives du Nil, [III]",0,1897-04-20,fr,[99],True
+828921,"Panorama des rives du Nil, [II]",0,1897-04-20,fr,[99],True
+828897,Départ de Toukh,0,1897-04-19,fr,[99],True
+828896,Départ de Benha,0,1897-04-19,fr,[99],True
+828893,Départ du Caire,0,1897-04-19,fr,[99],True
+828885,Village de Sakkarah (cavaliers sur ânes),0,1897-04-19,fr,[99],True
+828314,"Le Caire, sortie du pont de Kasr-el-Nil",0,1897-04-18,fr,[99],True
+828313,"Le Caire, sortie du pont de Kasr-el-Nil (chameaux)",0,1897-04-18,fr,[99],True
+828312,"Le Caire, pont de Kasr-el-Nil",1,1897-04-18,fr,[99],True
+786524,"Jaffa : Marché, I",0,1897-04-25,fr,[99],True
+786522,"Panorama des rives du Nil, [VII]",0,1897-04-21,en,[99],True
+782664,The Dolorita Passion Dance,0,1897-04-01,xx,[],True
+455191,Gigolos et gigolettes,4,1897-04-29,fr,[35],True
+453808,Theatre Hats Off,3.5,1897-04-22,en,[],True
+366953,Caravane de chameaux,4.3,1897-04-30,fr,[99],True
+320682,Spain: Bullfighting,4,1897-04-25,fr,[99],True
+231155,"Bethléem, une place",4.3,1897-04-26,fr,[99],True
+231072,Boxers in Barrels,3.7,1897-04-04,fr,[35],True
+231067,"Cheval de haute école, II",3.8,1897-04-18,fr,[99],True
+189811,"Black Diamond Express, No. 1",4.3,1897-04-01,en,[],True
+195074,"Paris, le Pont-Neuf",5,1897-05-20,fr,[99],True
+322616,"Arroseur et arrosé, III",6.1,1897-05-01,fr,[35],True
+147397,Mr. Edison at Work in His Chemical Laboratory,5.1,1897-05-31,en,[99],True
+342727,The Hallucinated Alchemist,6.1,1897-05-31,fr,"[27, 14]",True
+194601,On the Roof,4.9,1897-05-18,fr,"[80, 35]",True
+231432,Une partie de lawn-tennis II,4.8,1897-05-18,fr,[],True
+231044,"Stockholm, entrée de l'exposition",5.1,1897-05-16,fr,[99],True
+231139,"Beyrouth, place des canons",4.8,1897-05-01,en,[99],True
+195133,Attelage d'un camion,5.2,1897-05-20,fr,[99],True
+823058,"Arrivée de la garde au palais royal, I",5,1897-05-19,fr,[99],True
+194617,"Constantinople, panorama de la corne d'or",4.7,1897-05-02,fr,[99],True
+190587,"Lyon, travaux au canal de Jonage: Machine à damer",5.3,1897-05-19,fr,[99],True
+726370,Une bataille dans le vieux Stockholm,4,1897-05-17,fr,[99],True
+194604,The Last Cartridges,5,1897-05-18,fr,[10752],True
+155858,Peeping Tom,5.4,1897-05-31,en,"[35, 18]",True
+195149,Place du Pont,5.3,1897-05-20,fr,[99],True
+829418,"Beyrouth, Souk-Abou-el-Nassahr",0,1897-05-01,fr,[99],True
+823054,"Saltsjöbaden : départ en chemin de fer, panorama",8,1897-05-19,fr,[],True
+823028,Arrivée du kronprinz à l’exposition,3,1897-05-15,fr,[99],True
+823048,Norrström : débarquement,3,1897-05-19,fr,[99],True
+823044,Kastellholmen : panorama,5,1897-05-19,fr,[99],True
+787160,Entrée du château dans le vieux Stockholm,7,1897-05-16,fr,[99],True
+1066219,La fosse aux ours de Berne,0,1897-05-25,fr,[99],True
+1060577,Saut de haies et course à l'hippodrome de Schützenmatte à Bâle,0,1897-05-23,fr,[99],True
+1060515,Saut de haies par des militaires à l'hippodrome de Schützenmatte à Bâle,0,1897-05-23,fr,[99],True
+832881,Acteurs japonais : danse d’homme,0,1897-05-17,fr,[99],True
+832880,Une scène au théâtre japonais,0,1897-05-27,fr,[99],True
+829441,"Damas, Souk-el-Fakhra",0,1897-05-01,fr,[99],True
+829438,"Damas, une place",0,1897-05-01,fr,[99],True
+823062,"Arrivée de la garde au palais royal, II",0,1897-05-19,fr,[99],True
+823056,Avesta : les chutes,0,1897-05-19,fr,[99],True
+823051,Strandvägen : panorama,5,1897-05-19,fr,[99],True
+823050,Norrström : panorama,4,1897-05-19,fr,[99],True
+823042,Arrivée d'un bateau et débarquement à l'exposition,7,1897-05-16,fr,[99],True
+823039,Arrivée à l'exposition en bateau,4,1897-05-16,fr,[99],True
+823023,Arrivée du roi à l’exposition,0,1897-05-15,fr,[99],True
+717262,Bailado de Crianças no Colégio do Andaraí,0,1897-05-01,pt,[],True
+696696,Husking Bee,3,1897-05-24,en,[99],True
+679812,Entrée du cortège royal à l'Exposition,4.3,1897-05-15,fr,[99],True
+525405,"Lyon, travaux au canal de Jonage: locomobile",2.5,1897-05-19,en,[],True
+510875,Una cueca en Cavancha,0,1897-05-19,es,[99],True
+355896,Chegada do Trem em Petrópolis,0,1897-05-01,pt,[],True
+320774,Roi d'Italie et prince Victor passant la revue,0,1897-05-30,xx,[],True
+231354,"Constantinople, panorama des rives du Bosphore",4.7,1897-05-02,fr,[99],True
+231066,Berne : arrivée du roi de Siam,4.3,1897-05-25,fr,[99],True
+196244,Nègres Ashantis: Toilette d'un negrillon II,4.3,1897-05-16,fr,[99],True
+195119,Tedders,4.8,1897-05-20,fr,[99],True
+194618,Nègres Ashantis: Danse du sabre II,4,1897-05-18,en,[],True
+194614,The Lover in the Bag,5,1897-05-18,fr,[35],True
+194609,Ballet Libella,4.8,1897-05-18,xx,[99],True
+194608,Danse Fleur de Lotus,5.8,1897-05-18,fr,[99],True
+194181,Water toboggan (Montagnes russes sur l'eau),5.3,1897-05-01,fr,[99],True
+155859,Pillow Fight,4.7,1897-05-23,en,[35],True
+835611,Le premier cigare,4.5,1897-06-30,fr,[16],True
+831242,Bateaux sur le lac de St-James Park,0,1897-06-23,fr,[99],True
+195147,Football,5.2,1897-06-24,fr,[99],True
+366951,"Liverpool, panorama pris du chemin de fer électrique, IV",3.3,1897-06-27,fr,[99],True
+829665,"Fête du jubilé de la reine d'Angleterre : Le cortège, les princes étrangers",0,1897-06-22,fr,[99],True
+831256,Départ de Dunmurry,4,1897-06-29,fr,[99],True
+829672,Fête du jubilé de la reine d'Angleterre : la foule suivant le cortège,0,1897-06-21,fr,[99],True
+641861,Kaiser Wilhelm II. beim Besuche der Vulkan-Werft in Stettin am 4. Mai 1897,0,1897-06-01,de,[99],True
+829790,Gardes écossais à Hyde Park,0,1897-06-22,fr,[99],True
+179234,The Miller and the Sweep,5.3,1897-06-30,en,[35],True
+231362,Bains sur la Saône,5,1897-06-20,fr,[99],True
+844517,Villefranche : arrivée d'un train,0,1897-06-06,fr,[99],True
+831245,Départ d’un bateau sur la Tamise,0,1897-06-24,fr,[99],True
+829710,"Fête du jubilé de la reine d'Angleterre : le cortège, les gardes du corps et la musique des dragons",0,1897-06-22,fr,[99],True
+577216,"Liverpool, panorama pris du chemin de fer électrique, II",1,1897-06-26,fr,[99],True
+943732,99e régiment d’infanterie : anneaux et trapèze,0,1897-06-06,fr,[],True
+831334,Soundy Mounts,0,1897-06-29,fr,[99],True
+831333,Départ de Lurgan,0,1897-06-29,fr,[99],True
+831257,Lisburn,0,1897-06-29,fr,[99],True
+831255,Panorama du départ de Belfast,0,1897-06-29,fr,[99],True
+831247,Panorama du palais de Westminster pris de la Tamise,0,1897-06-24,fr,[99],True
+829800,Gardes à pied : marche de front,0,1897-06-23,fr,[99],True
+829798,Gardes à pied : exercices d’assouplissement,0,1897-06-23,fr,[99],True
+829796,Gardes à pied : maniement d’armes,0,1897-06-22,fr,[99],True
+829776,"Fête du jubilé de la reine d'Angleterre : le cortège, l’artillerie à cheval",0,1897-06-22,fr,[99],True
+829765,"Fête du jubilé de la reine d'Angleterre : le cortège, les cavaliers du Cap",5,1897-06-22,fr,[99],True
+829762,"Fête du jubilé de la reine d'Angleterre : le cortège, l’artillerie de marine",0,1897-06-22,fr,[99],True
+829692,"Fête du jubilé de la reine d'Angleterre : le cortège, les ambassadeurs",0,1897-06-22,fr,[99],True
+824384,Gardes à pied : exercices à la baïonnette,0,1897-06-23,fr,[99],True
+787333,"Suburban Handicap, 1897",0,1897-06-30,en,[],True
+786512,Panorama de l'arrivée à Belfast,0,1897-06-28,fr,[99],True
+715807,The Haverstraw Tunnel,0,1897-06-15,en,[99],True
+679815,Fête du jubilé de la reine d'Angleterre : la reine arrivant à Windsor,3,1897-06-21,fr,[99],True
+666006,Sauts à la perche,0,1897-06-13,xx,[99],True
+585643,"Liverpool, entrée dans Clarence Dock",4,1897-06-25,fr,[99],True
+577217,"Liverpool, panorama pris du chemin de fer électrique, III",3,1897-06-26,fr,[99],True
+525407,"Liverpool, panorama pris du chemin de fer électrique, I",3,1897-06-26,fr,[99],True
+347012,Girls Swinging,3.4,1897-06-10,en,[],True
+231424,"Fête du jubilé de la reine d'Angleterre : le cortège, la reine",4.3,1897-06-22,fr,[99],True
+231416,"Liverpool, Lime Street",5.2,1897-06-25,fr,[99],True
+231147,Belfast : Queen's Bridge,4.5,1897-06-29,fr,[99],True
+231144,Roi et reine de Roumanie et leur escorte,4,1897-06-19,xx,[],True
+231083,"Liverpool, la rade",4.5,1897-06-25,fr,[99],True
+198314,99ème régiment d'infanterie : assaut du portique,4.5,1897-06-06,en,[99],True
+196666,"Belfast, Castle Place",5,1897-06-29,fr,[99],True
+195106,"Liverpool, Church Street",5.2,1897-06-25,fr,[99],True
+831354,"Ligne de Belfast à Kingstown, III",0,1897-07-01,fr,[99],True
+831341,"Ligne de Belfast à Kingstown, II",0,1897-07-01,fr,[99],True
+195114,Douche après le bain,5,1897-07-15,xx,"[10751, 99]",True
+831368,13e hussards : saut d’obstacles,0,1897-07-02,fr,[99],True
+786509,"Dublin, Départ de la gare. Panorama",0,1897-07-02,fr,[99],True
+231443,"Bruxelles, Boulevard Anspach",4.5,1897-07-13,fr,[99],True
+231116,"Bruxelles, Grand’Place",4.8,1897-07-13,fr,[99],True
+366952,"Dublin, pompiers : un incendie, II",4.3,1897-07-05,fr,[99],True
+831338,"Ligne de Belfast à Kingstown, I",0,1897-07-01,fr,[99],True
+831373,13e hussards : défilé,0,1897-07-02,fr,[99],True
+831366,Arrivée à Kingstown,0,1897-07-02,fr,[99],True
+829804,Anvers : arrivée en Bateau,5,1897-07-11,fr,[99],True
+504917,"Dublin, pompiers : Un Incendie, I",3.8,1897-07-04,fr,[99],True
+447653,"Bruxelles, la bourse",3.7,1897-07-13,fr,[99],True
+447647,"Bruxelles, Sainte-Gudule",3.7,1897-07-14,fr,[99],True
+195125,"Philadelphia Express, Jersey Central Railway",4.8,1897-07-20,en,[],True
+447648,"Bruxelles, Place de Brouckère",3.7,1897-07-13,fr,[99],True
+105165,Giant Coal Dumper,5.9,1897-07-01,en,[99],True
+786513,"Dublin, O'Connel Bridge",5,1897-07-02,fr,[99],True
+831383,13e hussards : charge,0,1897-07-02,fr,[],True
+829806,Panorama de la ville pris d’un bateau,5,1897-07-12,fr,[99],True
+1066213,Cortège d'enfants à Aarau,0,1897-07-09,fr,[99],True
+1060264,Exercices de tir,0,1897-07-01,fr,[99],True
+1060180,Mise en place d'une batterie,0,1897-07-01,fr,[99],True
+1060179,Suisse: Exercices de tir par l'artillerie,0,1897-07-09,fr,[99],True
+1059635,Jeux à la campagne,0,1897-07-09,fr,[99],True
+865181,Chiens : défilé de meutes,0,1897-07-11,fr,[99],True
+831379,"13e hussards : exercices du sabre, pied à terre et départ",0,1897-07-02,fr,[99],True
+831377,13e hussards : arrivée et pied à terre,0,1897-07-02,fr,[99],True
+831375,13e hussards : défilé par douze,0,1897-07-02,fr,[99],True
+831372,13e hussards : saut d’obstacles par douze,0,1897-07-02,fr,[99],True
+772984,Queen Victoria's Garden Party at Buckingham Palace,0,1897-07-01,en,[],True
+772975,Queen Victoria's Diamond Jubilee,0,1897-07-01,en,[],True
+696693,Crawford Shoe Store,0,1897-07-24,en,[99],True
+633091,Hanging Out the Clothes,3,1897-07-07,en,[35],True
+581708,"Belfast, Pompiers : Alerte",0,1897-07-03,en,[99],True
+195142,"Sheep Run, Chicago Stockyards",4.4,1897-07-20,en,[],True
+195134,Falls of Minnehaha,4,1897-07-20,en,[],True
+195132,Armour's Electric Trolley,3.4,1897-07-20,en,[],True
+195131,Cattle Driven to Slaughter,4.2,1897-07-30,en,[99],True
+195129,Water Fall in the Catskills,2.7,1897-07-20,en,[],True
+195120,"Corner Madison and State Streets, Chicago",4.5,1897-07-20,en,[99],True
+195115,Buffalo Police on Parade,4.2,1897-07-20,en,[],True
+195102,Free-for-All race at Charter Oak Park,3.3,1897-07-20,en,[99],True
+195100,Racing at Sheepshead Bay,3.3,1897-07-20,en,[],True
+195090,Buffalo Stockyards,3.8,1897-07-20,en,[99],True
+830102,Revue de Krasnoïe Selo : grenadiers,0,1897-08-23,fr,[99],True
+830104,Revue de Krasnoïe Selo : infanterie,0,1897-08-23,fr,[99],True
+162857,Admiral Cigarette,4.8,1897-08-18,en,[35],True
+145974,Bowery Waltz,3.5,1897-08-31,en,[35],True
+354011,The Children's Seaside Frolic,5.1,1897-08-15,fr,"[35, 10751]",True
+1037266,De Brandweer-film te Delft,0,1897-08-01,nl,[99],True
+865168,Naples : une rue,0,1897-08-01,fr,[99],True
+858595,Ambulance Call,0,1897-08-06,en,[],True
+830108,Panorama de la ligne de Peterhof,0,1897-08-23,fr,[99],True
+830105,Revue de Krasnoïe Selo : pages,0,1897-08-23,fr,[99],True
+830100,Revue de Krasnoïe Selo : artillerie de forteresse,0,1897-08-23,fr,[99],True
+830099,Revue de Krasnoïe Selo : cosaques,0,1897-08-23,fr,[99],True
+830098,Revue de Krasnoïe Selo : artillerie,0,1897-08-23,fr,[99],True
+830095,Revue de Krasnoïe Selo : charge des hussards de l’impératrice,0,1897-08-23,fr,[99],True
+830093,Officiers russes attachés au président et journalistes,0,1897-08-23,fr,[99],True
+830032,M. le président passant devant la compagnie d’honneur,0,1897-08-23,fr,[99],True
+830026,Arrivée de M. le président à Saint-Pétersbourg,0,1897-08-23,fr,[99],True
+830019,Suite du cortège passant devant l’amiral Avellan,0,1897-08-23,fr,[99],True
+830016,Arrivée de M. le président et du tsar à Peterhof,6,1897-08-23,fr,[99],True
+665855,Arrivée et déchargement d’un train de gravier,0,1897-08-01,fr,[99],True
+453509,Atlantic City Fire Department,3.5,1897-08-21,en,[],True
+415629,The Maid in the Garden,0,1897-08-01,en,[35],True
+231356,La défense du drapeau,4.5,1897-08-31,fr,"[36, 18, 10752]",True
+212362,Serpentine Dance: Loïe Fuller,5.3,1897-08-05,en,[99],True
+212342,Railway Ride over the Tay Bridge,0,1897-08-05,en,[],True
+195122,"Sutro Baths, No. 2",3.3,1897-08-31,en,[99],True
+830757,Faust: Metamorphosis of Faust and Appearance of Marguerite,0,1897-09-01,fr,"[14, 27]",True
+831237,Mort de Charles Ier,0,1897-09-01,fr,"[18, 36]",True
+195144,Death of Marat,4.4,1897-09-01,fr,"[80, 18, 36]",True
+823672,"Cinghalais: danse des couteaux, I",0,1897-09-01,fr,[99],True
+830120,Napoléon et la sentinelle,0,1897-09-01,fr,"[36, 18]",True
+194606,Colleurs d'affiches,5,1897-09-01,fr,[35],True
+195124,Cupid and Psyche,4.7,1897-09-30,en,[99],True
+824205,Chez le cordonnier,0,1897-09-01,fr,[99],True
+826444,Interview Between Napoleon and the Pope,4,1897-09-01,fr,"[18, 36]",True
+192794,Faust: Appearance of Mephistopheles,3.6,1897-09-01,fr,"[27, 14]",True
+163112,"Arrest in Chinatown, San Francisco, Cal.",3,1897-09-30,en,"[80, 99]",True
+231460,Mort de Robespierre,4,1897-09-01,fr,"[18, 36]",True
+453763,Ambulance at the Accident,3.7,1897-09-22,en,[],True
+723031,Le charpentier maladroit,5,1897-09-01,xx,[35],True
+1165255,Charge of the French Cuirassiers – Paris,0,1897-09-08,en,[],True
+873464,Rue Royale: Église de la Madeleine,0,1897-09-12,en,[99],True
+834438,"Lourdes, transporting the sick, I",0,1897-09-13,xx,[99],True
+834433,"Lourdes, leaving the Church of the Rosary",10,1897-09-13,xx,[99],True
+834430,"Lourdes, procession, III",0,1897-09-13,xx,[99],True
+834426,"Lourdes, procession, II",0,1897-09-13,xx,[99],True
+830765,Les dernières cartouches,0,1897-09-01,fr,[36],True
+830758,Signature du traité de Campo-Formio,0,1897-09-01,fr,[36],True
+830756,Bataille d’enfants à coup d’oreillers,0,1897-09-01,fr,[35],True
+830753,Une farce à la chambrée,0,1897-09-01,fr,[35],True
+830451,Scène chez l’antiquaire,0,1897-09-01,fr,[],True
+830124,Chez le juge de paix,0,1897-09-01,fr,[35],True
+830118,Danseur russe,0,1897-09-01,fr,[99],True
+830112,Les boxeurs et le spectateur trop curieux puni,0,1897-09-01,fr,[35],True
+830111,Nounou et soldats,0,1897-09-01,fr,[35],True
+823860,"Cinghalais : danse des couteaux, III",0,1897-09-01,fr,[99],True
+823857,"Cinghalais : danse des couteaux, II",0,1897-09-01,fr,[99],True
+786517,Naples : Santa Lucia,3,1897-09-11,fr,[99],True
+723297,Les deux ivrognes,4,1897-09-01,fr,[35],True
+723293,Les tribulations d'une concierge,4.8,1897-09-01,xx,[35],True
+696689,Comic Shaving,3.3,1897-09-24,en,[35],True
+568867,Has He Hit Me?,1.5,1897-09-07,en,[],True
+477368,Fun on the Clothesline,1,1897-09-22,en,[],True
+415824,Weary Willie,3,1897-09-01,en,[35],True
+318798,"Lourdes, procession, I",4,1897-09-13,xx,[99],True
+231687,The Vanishing Lady,5.3,1897-09-29,en,[],True
+231417,Assassinat de Kleber,3.8,1897-09-01,en,[36],True
+231057,The Assassination of the Duke de Guise,4.3,1897-09-01,fr,"[36, 18]",True
+195186,Comic Face,4.7,1897-09-01,en,[],True
+195143,Leander Sisters,3.2,1897-09-30,en,"[35, 99]",True
+195137,Fisherman's Luck,3.3,1897-09-20,en,[99],True
+195130,Capsize of Lifeboat,4.2,1897-09-30,en,[99],True
+195095,S.S. 'Coptic' Sailing Away,4,1897-09-30,en,[99],True
+194611,Charity Ball,3,1897-09-18,en,[99],True
+193629,"Lourdes, transporting the sick, II",3.8,1897-09-13,xx,[99],True
+191641,Coolies à Saïgon,4.4,1897-09-26,fr,[99],True
+183313,Cupid at the Washtub,4.3,1897-09-01,en,[35],True
+105166,The X-Ray Fiend,5.5,1897-10-01,en,"[35, 27]",True
+194600,Japanese Sword Fencing,4.7,1897-10-20,fr,[99],True
+190571,Bains en mer,5.3,1897-10-10,xx,[99],True
+323316,"Les Aïnos à Yeso, [I]",0,1897-10-18,fr,[99],True
+231701,Cafe Brawl,3.9,1897-10-30,es,[18],True
+195081,"Horses loading for Klondike, no. 9",3.8,1897-10-20,en,[99],True
+191592,Le goûter des bébés,5.1,1897-10-24,fr,[99],True
+191598,Washerwomen on the River,5.3,1897-10-26,fr,[99],True
+195101,Southern Pacific Overland Mail,3.7,1897-10-20,en,[99],True
+321754,"Une partie de lawn-tennis, I",0,1897-10-24,fr,[99],True
+230961,"Nice, panorama du casino pris d'un bateau",5.5,1897-10-28,fr,[99],True
+321756,Petit frère et petite sœur,5.3,1897-10-10,fr,"[99, 10751]",True
+344880,"Belfast, exercices de sauvetage",4.7,1897-10-21,fr,[99],True
+189821,Return of Lifeboat,4,1897-10-01,en,[99],True
+323318,"Les Aïnos à Yeso, [II]",0,1897-10-18,xx,[99],True
+865164,Venise : place Saint-Marc,0,1897-10-17,fr,[99],True
+201406,Exit of the Twelve O'clock Mass of the Pillar of Saragossa,3.7,1897-10-01,es,[99],True
+230967,Danse d'hommes,4.3,1897-10-28,en,[99],True
+231123,"Carrare, train sortant d'un tunnel",4.3,1897-10-29,fr,[99],True
+983080,The Greetings,0,1897-10-02,es,[],True
+983066,Waves at Orzán,0,1897-10-01,es,[],True
+982775,Burial of Gral. Sánchez Bregua,0,1897-10-20,es,[99],True
+813713,Charge of the Cuirassiers,0,1897-10-31,fr,[],True
+696679,Boat Wagon and Beach Cart,2.5,1897-10-24,en,[99],True
+665997,Cheval à arçons,0,1897-10-17,xx,[99],True
+625554,Launch of Surf Boat,1,1897-10-25,en,[99],True
+607638,Single harness horses,1,1897-10-01,en,[99],True
+550931,The Sea Lions' Home,4.5,1897-10-01,en,[99],True
+525185,Emperor Francis Joseph of Austria,3,1897-10-15,en,[],True
+460181,Boxing for Points,3.7,1897-10-01,en,[],True
+453788,Fun on the Steeple-Chase,3.5,1897-10-22,en,[],True
+323288,"Procession, I",0,1897-10-03,fr,[99],True
+237846,Pie Eating Contest,3.8,1897-10-17,en,[35],True
+231699,Queen Victoria's Diamond Jubilee,3,1897-10-30,en,[],True
+231691,S.S. 'Queen' Loading,2.8,1897-10-30,en,[],True
+231653,Butterfly Dance,4.8,1897-10-30,en,[],True
+231452,Batteuse de blé,4.3,1897-10-30,en,[],True
+231429,Le rémouleur et l'assiette au noir,5,1897-10-30,en,[],True
+231427,Victor Hugo et les principaux personnages des 'Misérables',4,1897-10-30,xx,[],True
+231426,Feu de bois,4.4,1897-10-30,en,[],True
+231381,"Marché aux boeufs, I",4.3,1897-10-29,en,[],True
+231336,La paralytique,4.3,1897-10-29,en,[],True
+231149,Cuirassiers traversant la Saône à la nage,4.3,1897-10-29,en,[],True
+231142,Le marchand de marrons,4.3,1897-10-28,en,[],True
+231126,"Ballet, 'Le carnaval de Venise' II",4.3,1897-10-29,fr,[99],True
+231091,Danseuse de ballet,4.2,1897-10-22,fr,[99],True
+231051,Kiel: lancement du 'Fürst-Bismarck',4.5,1897-10-28,fr,[99],True
+231049,Buffalo Bill: peaux rouges,4.5,1897-10-29,fr,[99],True
+230955,"École de cavalerie de Saumur, le carrousel militaire: Changement de main",4.3,1897-10-28,en,[99],True
+212364,Dancing Darkey Boy,3.6,1897-10-05,en,[],True
+195123,"Sutro Baths, No. 1",3.8,1897-10-20,en,[],True
+195116,Surf at Monterey,3,1897-10-20,en,[],True
+195113,Lurline Baths,3.4,1897-10-20,en,[],True
+195110,"Hotel Vendome, San Jose, Cal.",3.8,1897-10-20,en,[],True
+195105,"Lick Observatory, Mt. Hamilton, Cal.",2.8,1897-10-20,en,[99],True
+195096,S.S. 'Coptic' at Dock,2.8,1897-10-20,en,[],True
+195094,S.S. 'Coptic' in the Harbor,2.8,1897-10-20,en,[],True
+195093,S.S. 'Williamette' Leaving for Klondike,2.5,1897-10-20,en,[],True
+195091,Buffalo Fire Department in action,4.7,1897-10-20,en,[99],True
+195088,Launch of life boat,3,1897-10-20,en,[99],True
+195087,Fishing smacks,3.3,1897-10-20,en,[99],True
+195086,"Stanford University, California",4.5,1897-10-20,en,[99],True
+195085,"First Avenue, Seattle, Washington, No. 8",3.8,1897-10-01,en,[99],True
+195084,"Loading baggage for Klondike, no. 6",3.9,1897-10-20,en,[99],True
+195079,Fisherman's Wharf,4,1897-10-20,en,[99],True
+195078,S.S. 'Queen' Leaving Dock,2.8,1897-10-20,en,[],True
+194607,Crissie Sheridan,4.8,1897-10-24,en,[99],True
+823969,Dentiste,0,1897-11-27,fr,[35],True
+833533,Colin-maillard au baquet,0,1897-11-21,fr,[35],True
+1006473,"Paris: firefighters, I. Passage of the pumps",4.7,1897-11-28,fr,[99],True
+321758,Ronde enfantine,4,1897-11-28,fr,"[99, 10751]",True
+823976,Voyageur et voleurs,2,1897-11-27,fr,[35],True
+415462,The Horitz Passion Play,1,1897-11-01,en,[18],True
+983063,Coal Factory,0,1897-11-01,es,[],True
+833532,L'assiette au noir,0,1897-11-21,fr,[35],True
+822633,Jury de peinture,0,1897-11-07,fr,[],True
+723036,Le lit en bascule,0,1897-11-28,xx,[35],True
+722395,Place de la Concorde et entrée de la rue Royale,0,1897-11-07,xx,[99],True
+658335,The Dancing Skeleton,4.5,1897-11-01,en,"[35, 27]",True
+426933,Prince Ranjitsinhji Practising Batting in the Nets,4.7,1897-11-20,en,[99],True
+366883,Place de la Concorde (Obelisk and Fountains),4,1897-11-07,fr,[],True
+366882,In Front of Notre-Dame,4.3,1897-11-28,fr,[99],True
+303637,The Arrival of the King of Siam in Stockholm,4.2,1897-11-16,sv,[99],True
+124032,The Sign Writer,1,1897-11-30,en,[],True
+162767,Serpentine Dance,6.5,1897-12-31,fr,[99],True
+195148,Brandvæsenet rykker ud,4.8,1897-12-25,en,[],True
+195073,Transport of a Turret by a Team of 60 Horses,5.3,1897-12-01,fr,[99],True
+453240,The Battery,3.7,1897-12-21,en,[99],True
+751037,Place de la Concorde,6,1897-12-01,xx,[],True
+231681,The Haunted Castle,4.5,1897-12-30,en,[27],True
+1096367,The Hanging of William Carr,0,1897-12-17,en,[99],True
+983064,Plaza de Mina y Orzán,0,1897-12-15,es,[],True
+983060,"San Jorge, Exit of the Mass",0,1897-12-01,es,[],True
+914772,Paysans à Paris,0,1897-12-12,en,[35],True
+914767,Passage de la Marne par les chevaux du 28e Dragons,0,1897-12-12,en,[99],True
+914760,Métamorphoses d'un magicien,0,1897-12-12,en,[],True
+914758,Le Président Félix Faure aux courses,0,1897-12-12,en,[99],True
+912711,Garde républicaine à cheval,0,1897-12-07,en,[99],True
+912694,Bois de Boulogne,0,1897-12-07,en,[99],True
+912691,Baigneurs et plongeurs,0,1897-12-07,en,[99],True
+772983,Queen Victoria's Carriage,0,1897-12-01,en,[],True
+764986,Roma Camp,0,1897-12-31,en,[],True
+764982,Passage des portiques (École de gymnastique de Joinville),7,1897-12-31,en,[],True
+723040,Bataille de femmes interrompue par un chien,0,1897-12-12,xx,[35],True
+722401,Buffalo Bill: cow-boys,0,1897-12-12,xx,[99],True
+722399,Buffalo Bill: lassage de chevaux,0,1897-12-12,xx,[99],True
+634606,Ocean Greyhounds,1,1897-12-27,en,[],True
+453862,"Mount and Dismount, Gatling Gun",3.3,1897-12-23,en,[],True
+354740,Making Sausages,4.3,1897-12-06,en,[35],True
+232636,Svanerne i Sortedamssøen,3,1897-12-25,en,[],True
+195117,"Fast mail, Northern Pacific Railroad",4.1,1897-12-20,en,[99],True
+32570,At the Top of Brooklyn Bridge,1,1897-12-01,en,[99],True
+104700,The Astronomer's Dream,6.9,1898-01-01,fr,[14],True
+49296,The Four Troublesome Heads,7.2,1898-01-01,fr,"[35, 14]",True
+764588,Firenze: uscita dal Palagio dell'Arte della Lana e partenza d'automobile,0,1898-01-01,it,"[99, 36]",True
+104702,The Temptation of St. Anthony,5.8,1898-01-01,fr,[14],True
+96186,The Magician,6.1,1898-01-01,fr,"[14, 18]",True
+568034,Something Good — Negro Kiss,6,1898-01-02,en,[10749],True
+104480,"Divers at Work on the Wreck of the ""Maine""",5.6,1898-01-01,fr,[],True
+375070,Pygmalion and Galatea,4.5,1898-01-01,xx,[14],True
+104696,The Famous Box Trick,6,1898-01-01,fr,[14],True
+835621,Les clowns Price,7,1898-01-01,fr,[16],True
+321771,The Boulevard of Scheveningen,4.3,1898-01-28,en,[99],True
+104697,Adventures of William Tell,5.5,1898-01-01,fr,"[35, 14]",True
+119953,At the Hypnotist's,4.6,1898-01-01,fr,[35],True
+119951,The Turn-of-the-Century Blind Man,5,1898-01-01,fr,"[35, 80]",True
+601908,Pelicans at the Zoo,1,1898-01-01,en,[99],True
+104694,Panorama from Top of a Moving Train,5.2,1898-01-01,fr,[99],True
+671692,Running of the Bulls,0,1898-01-30,es,[99],True
+668469,Carrefour de l'opéra,1,1898-01-01,en,[],True
+119959,Surprise Attack on a House at Daybreak,4.6,1898-01-01,fr,[10752],True
+749941,Scheveningen,7,1898-01-01,nl,[],True
+601904,Launch of the Worthing Lifeboat Coming Ashore,1,1898-01-01,en,[99],True
+119958,Disappearing Act,4.6,1898-01-01,fr,"[14, 35]",True
+193623,Néron essayant des poisons sur des esclaves,4.5,1898-01-02,fr,"[18, 36]",True
+178996,"Come Along, Do!",4.7,1898-01-01,en,[35],True
+1077097,Faust and Mephistopheles,5,1898-01-01,en,[27],True
+192788,Passage d'un tunnel en chemin de fer,5.9,1898-01-01,fr,[99],True
+751053,"The Bridge of Sighs, Venice",4,1898-01-01,xx,[],True
+1194877,"Karina, Specialty Dancer",1,1898-01-01,xx,[],True
+1156155,Incoming Tide,2,1898-01-01,en,[],True
+1121493,Santa Claus and the Children,0,1898-01-01,en,[10751],True
+1066400,Montreux: panorama pris du funiculaire Territet - Glion,0,1898-01-01,fr,[99],True
+1066397,Panorama pris d'un train assurant la ligne Glion - Rochers-de-Naye,0,1898-01-01,fr,[99],True
+1066195,"Cortège du centenaire, Place de la Riponne",0,1898-01-24,fr,[99],True
+1049678,Children Dancing with Barrel Organ,0,1898-01-01,en,[],True
+996394,Puwente de España,0,1898-01-01,xx,[],True
+996392,Panorama de Manila,0,1898-01-01,xx,[],True
+996388,Sunday in Binondo,0,1898-01-01,xx,[],True
+996387,Women Washing Clothes,0,1898-01-01,xx,[],True
+996385,Fiesta de Quiapo,0,1898-01-02,xx,[],True
+996382,Intramuros,0,1898-01-02,xx,[],True
+996381,Bamboo Dancers,0,1898-01-01,xx,[],True
+996378,Escenas Callejeras,0,1898-01-02,xx,[],True
+983067,Storm at Riazor,0,1898-01-01,es,[],True
+975343,The Seaforth Highlanders' Return to Cairo after the Fall of Omdurman and Khartoum,0,1898-01-01,en,[],True
+966689,Amsterdam Central Station,0,1898-01-01,en,[],True
+929382,Children Playing on the Beach at Rhyl,0,1898-01-01,en,[],True
+894188,Bullfighting: Bullfighting School,0,1898-01-01,fr,[99],True
+894173,Bullfighting: Start,1,1898-01-01,fr,[99],True
+894171,Bullfighting: Death of the Bull,0,1898-01-01,fr,[99],True
+894170,Bullfighting,0,1898-01-01,fr,[99],True
+888070,Sea Breaking against Some Rocks,0,1898-01-01,en,[],True
+882112,Town Moor Fair Scenes,0,1898-01-01,en,[],True
+876059,Fregoli maestro di musica,0,1898-01-01,it,[35],True
+803232,Ten Years in Manitoba,0,1898-01-01,en,[99],True
+798691,Something Good – Negro Kiss (Alternate Version),6.7,1898-01-02,en,[10749],True
+780884,Fregoli al restaurant,1,1898-01-01,it,"[35, 9648]",True
+777470,Jizo the Ghost,0,1898-01-02,ja,[27],True
+777448,Father Christmas and the Fairy,0,1898-01-01,en,[],True
+764967,Conway Castle,3,1898-01-01,en,[],True
+764962,Southampton,0,1898-01-01,en,[99],True
+764622,Panorama dal traghetto Lombardia,0,1898-01-01,it,[99],True
+764585,Veduta dal finestrino posteriore di un tram,0,1898-01-01,it,[99],True
+764582,Veduta del porto di Napoli da un battello,0,1898-01-01,it,[99],True
+764563,"Siena, the Palio",0,1898-01-01,it,"[99, 36, 10402]",True
+751675,"The Tarantella, an Italian Dance",4,1898-01-01,en,[],True
+751668,Upside Down Boxers,7,1898-01-01,en,[],True
+751661,A Blast at the Solvay Quarries,4,1898-01-01,en,[],True
+751657,Maidenhead Junction,6,1898-01-01,en,[99],True
+751484,Procession of Capuchin Monks,4,1898-01-01,en,[],True
+751049,"Venice, harbour scene with gondolas",6,1898-01-01,xx,[],True
+751018,Mills from the Zaanstreek,7,1898-01-01,xx,[99],True
+751015,From War to Peace,6,1898-01-01,xx,[],True
+750268,Dutch Fishing Boats,4,1898-01-01,en,[],True
+750111,Funeral Procession of the Misericordia,4.5,1898-01-01,en,[],True
+750093,Pleasure in Berlin,0,1898-01-01,en,[],True
+750080,Countryside Near Amsterdam,0,1898-01-01,en,[],True
+749940,The Irish Mail,0,1898-01-01,en,[99],True
+723965,Fighting with our Boys in Cuba,0,1898-01-01,en,[],True
+723963,Battle of Santiago Bay,0,1898-01-01,en,[99],True
+671693,Picadors,0,1898-01-30,en,[99],True
+665544,Washing the Sweep,7,1898-01-04,en,[],True
+630595,Horse-drawn Traffic Viewed from Elevated Position,0,1898-01-02,en,[],True
+604009,Torres Strait Islanders,0,1898-01-01,en,[],True
+602020,"The Grand Canal, Venice",3.7,1898-01-01,en,[99],True
+602019,Panoramic View of the Vegetable Market at Venice,7,1898-01-01,en,[99],True
+602007,"Through Miller's Dale (Near Buxton, Derbyshire) Midland Railway",0,1898-01-01,en,[99],True
+602004,Irish Mail – L.& N.W. Railway – Taking up Water at Full Speed,3.5,1898-01-01,en,[99],True
+601964,The Zola-Rochefort Duel,0,1898-01-01,en,[18],True
+601958,Kissing Couple Caught by a Photographer,0,1898-01-01,en,[35],True
+601931,"Charge of the Carabineers, Aldershot",1,1898-01-01,en,"[99, 10752]",True
+601816,The Wonderful Mutoscope,0,1898-01-01,en,[99],True
+599675,A Woman Surprised,4,1898-01-01,en,[],True
+599671,The Bridegroom's Dilemma,4,1898-01-01,xx,[],True
+581971,Irish Jig,1,1898-01-01,en,[],True
+552991,Royal Photographic Convention - Glasgow,0,1898-01-09,en,[],True
+547103,Photographing a Ghost,3,1898-01-01,en,[],True
+521095,The Unwilling Draught Dog,6,1898-01-01,en,[],True
+477365,"Menai Bridge, the Day Irish Mail from Euston Entering the Tubular Bridge Over the Menai Straits",6.5,1898-01-01,en,[99],True
+477363,Neapolitan Dance at the Ancient Forum of Pompeii,3,1898-01-02,en,[99],True
+477358,"Venice, Feeding the Pigeons in St. Mark's Square",4,1898-01-01,xx,[99],True
