@@ -1,0 +1,20 @@
+curl -X PUT "134.214.202.38/tmdb" -H "Content-Type: application/json" -d'
+{
+  "index" : {
+    "number_of_shards" : 1,
+    "number_of_replicas" : 3
+  },
+  "mappings" : {
+    "api_data" : {
+      "properties" : {
+        "ID" : { "type" : "integer" },
+        "title" : { "type" : "text" },
+        "vote_average" : { "type" : "float" },
+        "date" : { "type" : "date", "format" : "yyyy-MM-dd" },
+        "original_language" : { "type" : "text" }, 
+        "genre_ids" : { "type" : "integer"},
+        "isMovie": { "type": "boolean" },
+      }
+    }
+  }
+}
