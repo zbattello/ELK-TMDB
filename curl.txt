@@ -1,4 +1,4 @@
-curl -X PUT "134.214.202.38/tmdb" -H "Content-Type: application/json" -d'
+curl -X PUT "134.214.202.38:9200/tmdb" -H "Content-Type: application/json" -d'
 {
   "index" : {
     "number_of_shards" : 1,
@@ -13,8 +13,8 @@ curl -X PUT "134.214.202.38/tmdb" -H "Content-Type: application/json" -d'
         "date" : { "type" : "date", "format" : "yyyy-MM-dd" },
         "original_language" : { "type" : "text" }, 
         "genre_ids" : { "type" : "integer"},
-        "isMovie": { "type": "boolean" },
+        "isMovie": { "type": "boolean" }
       }
     }
   }
-}
+}'
