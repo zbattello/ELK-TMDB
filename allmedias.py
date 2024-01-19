@@ -16,12 +16,12 @@ def get_existing_ids(csv_filename):
             csv_reader = csv.reader(file)
             next(csv_reader)  # Skip header
             for row in csv_reader:
-                existing_ids.add(row[0])  # ID is the first column
+                existing_ids.add(row[0])  # ID in first column
     except FileNotFoundError:
-        pass  # File doesn't exist yet
+        pass  
     return existing_ids
 
-# Function to write or append data to CSV
+# Function to write data to CSV
 def write_or_append_to_csv(csv_filename, data, is_movie, existing_ids):
     with open(csv_filename, 'a', newline='', encoding='utf-8') as file:
         csv_writer = csv.writer(file)
@@ -30,7 +30,7 @@ def write_or_append_to_csv(csv_filename, data, is_movie, existing_ids):
             csv_writer.writerow(headers)
 
         for item in data:
-            id = str(item.get('id'))  # Ensure ID is a string for set comparison
+            id = str(item.get('id')) 
             if id not in existing_ids:
                 title = item.get('title') if is_movie else item.get('name')
                 vote_average = item.get('vote_average')
@@ -47,9 +47,8 @@ def process_media(url, is_movie, csv_filename, existing_ids):
         return 0
 
     data = response.json()
-    total_pages = min(data['total_pages'], 500)  # Limit to 500 pages
-    total_results = 0  # Initialize total results count
-
+    total_pages = min(data['total_pages'], 500)  # Limit 500 pages
+    total_results = 0 
     for page in range(1, total_pages + 1):
         response = requests.get(f'{url}&page={page}')
         if response.status_code != 200:
@@ -59,11 +58,11 @@ def process_media(url, is_movie, csv_filename, existing_ids):
         page_data = response.json().get('results', [])
         write_or_append_to_csv(csv_filename, page_data, is_movie, existing_ids)
         total_results += len(page_data)
-        time.sleep(5)  # Delay to avoid hitting rate limits
+        time.sleep(5)  # Delay 
 
-    return total_results  # Return the count of processed items
+    return total_results  # Return the count items
 
-# Function to iterate over months and process media
+# Function to iterate over months 
 def iterate_and_process_dates(start_date, end_date, output_filename):
     current_date = start_date
     while current_date <= end_date:
@@ -88,22 +87,18 @@ def iterate_and_process_dates(start_date, end_date, output_filename):
             current_date = datetime.date(current_date.year + 1, 1, 1)
         else:
             current_date = datetime.date(current_date.year, current_date.month + 1, 1)
-        time.sleep(1)  # Delay to avoid hitting rate limits
+        time.sleep(1)  # Delay 
 
-
-# Output filename
+# Output 
 output_filename = 'media_list.csv'
 
-# Get existing IDs from the CSV
+# Get IDs from the CSV
 existing_ids = get_existing_ids(output_filename)
 
-# Define the start and end dates for iteration
+#start and end dates 
 #start_date = datetime.date(1874, 12, 8) # first date
-start_date = datetime.date(2023, 3, 1)
-end_date = datetime.date.today()  # or any end date you prefer
+start_date = datetime.date(2024, 1, 8)
+end_date = datetime.date.today()  # today
 
-# Output filename
-output_filename = 'media_list.csv'
-
-# Start the iteration process
+# Start 
 iterate_and_process_dates(start_date, end_date, output_filename)
