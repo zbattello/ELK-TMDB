@@ -1,7 +1,8 @@
 from datetime import datetime
 from elasticsearch import Elasticsearch
+import csv
 
-ELASTIC_PASSWORD = "=0aZNCDEppl_i*QOlWly"
+ELASTIC_PASSWORD = "6pl0rnxHKe82IPkf5+EA"
 
 #disable certificate
 es = Elasticsearch(hosts="https://localhost:9200", basic_auth=("elastic", ELASTIC_PASSWORD), verify_certs=False)
@@ -10,20 +11,39 @@ es = Elasticsearch(hosts="https://localhost:9200", basic_auth=("elastic", ELASTI
 
 
 
+
+
+
 doc = {
-    'author': 'kimchy',
-    'text': 'Elasticsearch: cool. bonsai cool.',
-    'timestamp': datetime.now(),
+    'ID': 315946 ,
+    'Title': 'Passage of Venus',
+    'Vote Average': '6.2',
+    'Date': '1874-12-09',
+    'Original Langage': 'fr',
+    'Genre IDs': '[99]',
+    'IsMovie': 'True'
+
 }
-resp = es.index(index="test-index", id=1, document=doc)
-print(resp['result'])
 
-resp = es.get(index="test-index", id=1)
-print(resp['_source'])
 
-es.indices.refresh(index="test-index")
 
-resp = es.search(index="test-index", query={"match_all": {}})
+
+
+def parse_csv(file_path):
+    N = 1
+    with open(file_path, 'r', newline='', encoding='utf-8') as csvfile:
+        csvreader = csv.DictReader(csvfile)
+        for row in csvreader:
+            resp = es.index(index=f"index{N}", id=1, document=row)
+            es.indices.refresh(index=f"index{N}")
+            N=N+1
+            if N > 200000:
+                break
+
+
+parse_csv("media_list.csv")
+
+resp = es.search(index="index35080", query={"match_all": {}})
 print("Got %d Hits:" % resp['hits']['total']['value'])
 for hit in resp['hits']['hits']:
-    print("%(timestamp)s %(author)s: %(text)s" % hit["_source"])
+    print("%(ID)s %(Title)s: %(Vote Average)s %(Date)s" % hit["_source"])
